@@ -1,0 +1,1068 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-03-22T22:19:15.676-05:00
+  initializedAtString: 2021-03-22T21:24:05.632-05:00
+  entries:
+  - path: CS347 Project 2\Library\gfu\cache\branches.yaml
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Library\SourceAssetDB
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\CompilationLog.txt
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\PsdPlugin.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\PsdPlugin.dll.hash
+    projectPath: Temp\PsdPlugin.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Animation.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Animation.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Animation.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Animation.Runtime.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Animation.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.Animation.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Animation.Triangle.Runtime.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Animation.Triangle.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.Animation.Triangle.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Common.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Common.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Common.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Common.Runtime.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Common.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.Common.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.IK.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.IK.Editor.dll.hash
+    projectPath: Temp\Unity.2D.IK.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.IK.Runtime.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.IK.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.IK.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Path.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Path.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Path.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.PixelPerfect.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.PixelPerfect.dll.hash
+    projectPath: Temp\Unity.2D.PixelPerfect.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.PixelPerfect.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.PixelPerfect.Editor.dll.hash
+    projectPath: Temp\Unity.2D.PixelPerfect.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Psdimporter.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Psdimporter.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Psdimporter.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Sprite.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Sprite.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Sprite.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.SpriteShape.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.SpriteShape.Editor.dll.hash
+    projectPath: Temp\Unity.2D.SpriteShape.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.SpriteShape.Runtime.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.SpriteShape.Runtime.dll.hash
+    projectPath: Temp\Unity.2D.SpriteShape.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.2D.Tilemap.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.2D.Tilemap.Editor.dll.hash
+    projectPath: Temp\Unity.2D.Tilemap.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.InternalAPIEditorBridge.001.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.InternalAPIEditorBridge.001.dll.hash
+    projectPath: Temp\Unity.InternalAPIEditorBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.InternalAPIEngineBridge.001.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.InternalAPIEngineBridge.001.dll.hash
+    projectPath: Temp\Unity.InternalAPIEngineBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.Mathematics.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.Mathematics.dll.hash
+    projectPath: Temp\Unity.Mathematics.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.Mathematics.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.Mathematics.Editor.dll.hash
+    projectPath: Temp\Unity.Mathematics.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.Rider.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.TextMeshPro.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.Timeline.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityEditor.UI.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityEngine.UI.dll.hash
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityLockfile
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-018c0d3719d33ba46a043d4af644f323
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-018c0d3719d33ba46a043d4af644f323
+    projectPath: Temp\UnityTempFile-018c0d3719d33ba46a043d4af644f323
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-02ef097ad63413841abd3223aef64ce1
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-02ef097ad63413841abd3223aef64ce1
+    projectPath: Temp\UnityTempFile-02ef097ad63413841abd3223aef64ce1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-0435c9bc619873546ac6743f66fb0b93
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-0435c9bc619873546ac6743f66fb0b93
+    projectPath: Temp\UnityTempFile-0435c9bc619873546ac6743f66fb0b93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-0516278e8d92ebf45ab86f7617856043
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-0516278e8d92ebf45ab86f7617856043
+    projectPath: Temp\UnityTempFile-0516278e8d92ebf45ab86f7617856043
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-059a71e59c6616e4680efdcc18da23ad
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-059a71e59c6616e4680efdcc18da23ad
+    projectPath: Temp\UnityTempFile-059a71e59c6616e4680efdcc18da23ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-07bbba0883c638041b53b6ecf7fd3f70
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-07bbba0883c638041b53b6ecf7fd3f70
+    projectPath: Temp\UnityTempFile-07bbba0883c638041b53b6ecf7fd3f70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-08a91e56f1ccf7648b08779cc5b3a132
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-08a91e56f1ccf7648b08779cc5b3a132
+    projectPath: Temp\UnityTempFile-08a91e56f1ccf7648b08779cc5b3a132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-09d78594f14348e449eabe5a4d9ca549
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-09d78594f14348e449eabe5a4d9ca549
+    projectPath: Temp\UnityTempFile-09d78594f14348e449eabe5a4d9ca549
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-0d5fb277b8e1d81488814b24b2e99e40
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-0d5fb277b8e1d81488814b24b2e99e40
+    projectPath: Temp\UnityTempFile-0d5fb277b8e1d81488814b24b2e99e40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-0e99996e955d1b2459456b73d5ad3650
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-0e99996e955d1b2459456b73d5ad3650
+    projectPath: Temp\UnityTempFile-0e99996e955d1b2459456b73d5ad3650
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-1431a64bc6b4e8a4c9d286d36618ac8e
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-1431a64bc6b4e8a4c9d286d36618ac8e
+    projectPath: Temp\UnityTempFile-1431a64bc6b4e8a4c9d286d36618ac8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-17a8ab0e408d5c94c8e24f6a22ba49b9
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-17a8ab0e408d5c94c8e24f6a22ba49b9
+    projectPath: Temp\UnityTempFile-17a8ab0e408d5c94c8e24f6a22ba49b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-19fd41dc70ab6204fa67cb64f511f6a0
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-19fd41dc70ab6204fa67cb64f511f6a0
+    projectPath: Temp\UnityTempFile-19fd41dc70ab6204fa67cb64f511f6a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-1a6aef28f6886ee468f57f8389658f06
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-1a6aef28f6886ee468f57f8389658f06
+    projectPath: Temp\UnityTempFile-1a6aef28f6886ee468f57f8389658f06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-1ad5755cbd910db4bbac565221a0f478
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-1ad5755cbd910db4bbac565221a0f478
+    projectPath: Temp\UnityTempFile-1ad5755cbd910db4bbac565221a0f478
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-1b2357878d09e954fbc93e3c55b55447
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-1b2357878d09e954fbc93e3c55b55447
+    projectPath: Temp\UnityTempFile-1b2357878d09e954fbc93e3c55b55447
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-1b62ce9e76edd8b49a05b4e26b3d4a9f
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-1b62ce9e76edd8b49a05b4e26b3d4a9f
+    projectPath: Temp\UnityTempFile-1b62ce9e76edd8b49a05b4e26b3d4a9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-201bfe5cd075f744fa923dc33d4d47fd
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-201bfe5cd075f744fa923dc33d4d47fd
+    projectPath: Temp\UnityTempFile-201bfe5cd075f744fa923dc33d4d47fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-203e998a2ca6be840a85ccc701cc450b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-203e998a2ca6be840a85ccc701cc450b
+    projectPath: Temp\UnityTempFile-203e998a2ca6be840a85ccc701cc450b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-221f23423dcb0744daba19b5a0e592be
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-221f23423dcb0744daba19b5a0e592be
+    projectPath: Temp\UnityTempFile-221f23423dcb0744daba19b5a0e592be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-22634e4bdc5528f478e3ac5b5cb3eca0
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-22634e4bdc5528f478e3ac5b5cb3eca0
+    projectPath: Temp\UnityTempFile-22634e4bdc5528f478e3ac5b5cb3eca0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-233276125eb77a446b081cdbdffadea0
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-233276125eb77a446b081cdbdffadea0
+    projectPath: Temp\UnityTempFile-233276125eb77a446b081cdbdffadea0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-23b4bd69c3ace254bbf94e90faaa5c74
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-23b4bd69c3ace254bbf94e90faaa5c74
+    projectPath: Temp\UnityTempFile-23b4bd69c3ace254bbf94e90faaa5c74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-283cda2ed273f2b48b8a11027c0fdf1e
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-283cda2ed273f2b48b8a11027c0fdf1e
+    projectPath: Temp\UnityTempFile-283cda2ed273f2b48b8a11027c0fdf1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-29c25c8578ac03b4f914b617f3267caf
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-29c25c8578ac03b4f914b617f3267caf
+    projectPath: Temp\UnityTempFile-29c25c8578ac03b4f914b617f3267caf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-2bfa89807571a35479c6f680ab2e9880
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-2bfa89807571a35479c6f680ab2e9880
+    projectPath: Temp\UnityTempFile-2bfa89807571a35479c6f680ab2e9880
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-2c3d947017f1a4a449b97149929dd1a5
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-2c3d947017f1a4a449b97149929dd1a5
+    projectPath: Temp\UnityTempFile-2c3d947017f1a4a449b97149929dd1a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-2c9cc2165f893f04b8fb6ff8f3afdf9d
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-2c9cc2165f893f04b8fb6ff8f3afdf9d
+    projectPath: Temp\UnityTempFile-2c9cc2165f893f04b8fb6ff8f3afdf9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-2ca5cdd4a55cbf546b8020c6e57a9788
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-2ca5cdd4a55cbf546b8020c6e57a9788
+    projectPath: Temp\UnityTempFile-2ca5cdd4a55cbf546b8020c6e57a9788
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-302fd96046d74ab49890a17913019c80
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-302fd96046d74ab49890a17913019c80
+    projectPath: Temp\UnityTempFile-302fd96046d74ab49890a17913019c80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-332f5a0bcaae3604c87a53a6b6bc108c
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-332f5a0bcaae3604c87a53a6b6bc108c
+    projectPath: Temp\UnityTempFile-332f5a0bcaae3604c87a53a6b6bc108c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-3463c027d41db72419bb4b6ba33b21c8
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-3463c027d41db72419bb4b6ba33b21c8
+    projectPath: Temp\UnityTempFile-3463c027d41db72419bb4b6ba33b21c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-36d3a7cbd36fe9f44978fb28ca8083ac
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-36d3a7cbd36fe9f44978fb28ca8083ac
+    projectPath: Temp\UnityTempFile-36d3a7cbd36fe9f44978fb28ca8083ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-3a569214b2810ce4cb0028322c85776e
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-3a569214b2810ce4cb0028322c85776e
+    projectPath: Temp\UnityTempFile-3a569214b2810ce4cb0028322c85776e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-3c52d678f644a4a4cb3fd5d5e0f5cd9d
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-3c52d678f644a4a4cb3fd5d5e0f5cd9d
+    projectPath: Temp\UnityTempFile-3c52d678f644a4a4cb3fd5d5e0f5cd9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-3e74da4ff01f03d43b32da5523843b01
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-3e74da4ff01f03d43b32da5523843b01
+    projectPath: Temp\UnityTempFile-3e74da4ff01f03d43b32da5523843b01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-4128742a3dbabd44b932d950d7e86460
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-4128742a3dbabd44b932d950d7e86460
+    projectPath: Temp\UnityTempFile-4128742a3dbabd44b932d950d7e86460
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-41b80a5c8ae68584780768d4a8492d23
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-41b80a5c8ae68584780768d4a8492d23
+    projectPath: Temp\UnityTempFile-41b80a5c8ae68584780768d4a8492d23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-4205e0bec718819419c97fcebd78cfe8
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-4205e0bec718819419c97fcebd78cfe8
+    projectPath: Temp\UnityTempFile-4205e0bec718819419c97fcebd78cfe8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-427bd5ad063f6cf41845c8045d9951e4
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-427bd5ad063f6cf41845c8045d9951e4
+    projectPath: Temp\UnityTempFile-427bd5ad063f6cf41845c8045d9951e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-43064b5021bc4a4419694afe91e15780
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-43064b5021bc4a4419694afe91e15780
+    projectPath: Temp\UnityTempFile-43064b5021bc4a4419694afe91e15780
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-43107b712455ac345aab1e4d4ffb9a3f
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-43107b712455ac345aab1e4d4ffb9a3f
+    projectPath: Temp\UnityTempFile-43107b712455ac345aab1e4d4ffb9a3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-45259566c73220f43aae07c75539a6db
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-45259566c73220f43aae07c75539a6db
+    projectPath: Temp\UnityTempFile-45259566c73220f43aae07c75539a6db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-45ad06997e8b2d54e99743832d136f1b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-45ad06997e8b2d54e99743832d136f1b
+    projectPath: Temp\UnityTempFile-45ad06997e8b2d54e99743832d136f1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-4632b52c4acaca34bb26e41dde7da932
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-4632b52c4acaca34bb26e41dde7da932
+    projectPath: Temp\UnityTempFile-4632b52c4acaca34bb26e41dde7da932
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-4c7e505017153cc4dae09497cebc5251
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-4c7e505017153cc4dae09497cebc5251
+    projectPath: Temp\UnityTempFile-4c7e505017153cc4dae09497cebc5251
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-5083d4edd8469d846b5693aa971ce33e
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-5083d4edd8469d846b5693aa971ce33e
+    projectPath: Temp\UnityTempFile-5083d4edd8469d846b5693aa971ce33e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-50df5fe2237165b47b48def80e04708f
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-50df5fe2237165b47b48def80e04708f
+    projectPath: Temp\UnityTempFile-50df5fe2237165b47b48def80e04708f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-517ea07f1666c0543be97f746f807a47
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-517ea07f1666c0543be97f746f807a47
+    projectPath: Temp\UnityTempFile-517ea07f1666c0543be97f746f807a47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-55aeba4bfcf31fc47a623a4db950d9e1
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-55aeba4bfcf31fc47a623a4db950d9e1
+    projectPath: Temp\UnityTempFile-55aeba4bfcf31fc47a623a4db950d9e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-5a1e0210671c3d244a859fd61d7de025
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-5a1e0210671c3d244a859fd61d7de025
+    projectPath: Temp\UnityTempFile-5a1e0210671c3d244a859fd61d7de025
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-5b48e7588cabccd4caff555459d974fd
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-5b48e7588cabccd4caff555459d974fd
+    projectPath: Temp\UnityTempFile-5b48e7588cabccd4caff555459d974fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-5cfdc6fb44a2ad540929b88691fcf94d
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-5cfdc6fb44a2ad540929b88691fcf94d
+    projectPath: Temp\UnityTempFile-5cfdc6fb44a2ad540929b88691fcf94d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-5e1b053beec5ed845941d3b048900665
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-5e1b053beec5ed845941d3b048900665
+    projectPath: Temp\UnityTempFile-5e1b053beec5ed845941d3b048900665
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-606178c34ebf43145b002993c318da20
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-606178c34ebf43145b002993c318da20
+    projectPath: Temp\UnityTempFile-606178c34ebf43145b002993c318da20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-665e7e255a3d248409a85463a3b4f7bf
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-665e7e255a3d248409a85463a3b4f7bf
+    projectPath: Temp\UnityTempFile-665e7e255a3d248409a85463a3b4f7bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-669878bee3eaa3a41ade1289c453e914
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-669878bee3eaa3a41ade1289c453e914
+    projectPath: Temp\UnityTempFile-669878bee3eaa3a41ade1289c453e914
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-66a01830016752246a91c18985f8dbd2
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-66a01830016752246a91c18985f8dbd2
+    projectPath: Temp\UnityTempFile-66a01830016752246a91c18985f8dbd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-67eb92d2add39dc4999fb6bdabace336
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-67eb92d2add39dc4999fb6bdabace336
+    projectPath: Temp\UnityTempFile-67eb92d2add39dc4999fb6bdabace336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-68eb8e7dfb183c341bb823c6bb6c54f7
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-68eb8e7dfb183c341bb823c6bb6c54f7
+    projectPath: Temp\UnityTempFile-68eb8e7dfb183c341bb823c6bb6c54f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-6a3c17e6a312fd740be49da83b1c785e
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-6a3c17e6a312fd740be49da83b1c785e
+    projectPath: Temp\UnityTempFile-6a3c17e6a312fd740be49da83b1c785e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-6c779ea192591b54caab2a31144b0833
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-6c779ea192591b54caab2a31144b0833
+    projectPath: Temp\UnityTempFile-6c779ea192591b54caab2a31144b0833
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-6c97a05e9342eef44ba96223f03d5af7
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-6c97a05e9342eef44ba96223f03d5af7
+    projectPath: Temp\UnityTempFile-6c97a05e9342eef44ba96223f03d5af7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-6d1c4e77428ee4349b1cb36be15cfb86
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-6d1c4e77428ee4349b1cb36be15cfb86
+    projectPath: Temp\UnityTempFile-6d1c4e77428ee4349b1cb36be15cfb86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-6e53439c25c14a74688c63a72de007bf
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-6e53439c25c14a74688c63a72de007bf
+    projectPath: Temp\UnityTempFile-6e53439c25c14a74688c63a72de007bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-6fcad9427768efe4791e81abb57d2088
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-6fcad9427768efe4791e81abb57d2088
+    projectPath: Temp\UnityTempFile-6fcad9427768efe4791e81abb57d2088
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-72081ad74fd24f542bc9055d269369ad
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-72081ad74fd24f542bc9055d269369ad
+    projectPath: Temp\UnityTempFile-72081ad74fd24f542bc9055d269369ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-76019ab56b759c4438479253268b0d5d
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-76019ab56b759c4438479253268b0d5d
+    projectPath: Temp\UnityTempFile-76019ab56b759c4438479253268b0d5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-7799038227487754eb78858ade37ddbe
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-7799038227487754eb78858ade37ddbe
+    projectPath: Temp\UnityTempFile-7799038227487754eb78858ade37ddbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-796f0e3e7fb31b64d9df48b8ac3b5118
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-796f0e3e7fb31b64d9df48b8ac3b5118
+    projectPath: Temp\UnityTempFile-796f0e3e7fb31b64d9df48b8ac3b5118
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-7af185bb045225a42b156d4204b95393
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-7af185bb045225a42b156d4204b95393
+    projectPath: Temp\UnityTempFile-7af185bb045225a42b156d4204b95393
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-7b8af953ee610744dbec1559b9af795b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-7b8af953ee610744dbec1559b9af795b
+    projectPath: Temp\UnityTempFile-7b8af953ee610744dbec1559b9af795b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-7c3eef6ea8ae1d94dae0a8d270ad5c2b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-7c3eef6ea8ae1d94dae0a8d270ad5c2b
+    projectPath: Temp\UnityTempFile-7c3eef6ea8ae1d94dae0a8d270ad5c2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-7ea1be0c09e36da48ab43edcd068f4ea
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-7ea1be0c09e36da48ab43edcd068f4ea
+    projectPath: Temp\UnityTempFile-7ea1be0c09e36da48ab43edcd068f4ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-817be3d0e23210a4fac3e14bd84534f2
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-817be3d0e23210a4fac3e14bd84534f2
+    projectPath: Temp\UnityTempFile-817be3d0e23210a4fac3e14bd84534f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-81812800058e96244b4058611ce52a7b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-81812800058e96244b4058611ce52a7b
+    projectPath: Temp\UnityTempFile-81812800058e96244b4058611ce52a7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-84bce0f5b401a9f4091c4cd407e6e8c6
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-84bce0f5b401a9f4091c4cd407e6e8c6
+    projectPath: Temp\UnityTempFile-84bce0f5b401a9f4091c4cd407e6e8c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-87bf67390562dbf44a821fa04f4e9030
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-87bf67390562dbf44a821fa04f4e9030
+    projectPath: Temp\UnityTempFile-87bf67390562dbf44a821fa04f4e9030
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-89e5ee79942f9cc4fa2dbf7f968d8eed
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-89e5ee79942f9cc4fa2dbf7f968d8eed
+    projectPath: Temp\UnityTempFile-89e5ee79942f9cc4fa2dbf7f968d8eed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-89e7ede027028f34d8a8c4b930a6ae16
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-89e7ede027028f34d8a8c4b930a6ae16
+    projectPath: Temp\UnityTempFile-89e7ede027028f34d8a8c4b930a6ae16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-8a3c7857b10b7314980e2a094976251d
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-8a3c7857b10b7314980e2a094976251d
+    projectPath: Temp\UnityTempFile-8a3c7857b10b7314980e2a094976251d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-8a4f4950e021f0247bfaf3b51f668181
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-8a4f4950e021f0247bfaf3b51f668181
+    projectPath: Temp\UnityTempFile-8a4f4950e021f0247bfaf3b51f668181
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-8ed33a75e3f623c4f9fbf00347d5c59b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-8ed33a75e3f623c4f9fbf00347d5c59b
+    projectPath: Temp\UnityTempFile-8ed33a75e3f623c4f9fbf00347d5c59b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-903b0e52098501c49811c17df31ba9ea
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-903b0e52098501c49811c17df31ba9ea
+    projectPath: Temp\UnityTempFile-903b0e52098501c49811c17df31ba9ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-91578c7a0d1b99843a7e947fca6209ce
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-91578c7a0d1b99843a7e947fca6209ce
+    projectPath: Temp\UnityTempFile-91578c7a0d1b99843a7e947fca6209ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-92f1f160b28c26247b1da344986256ae
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-92f1f160b28c26247b1da344986256ae
+    projectPath: Temp\UnityTempFile-92f1f160b28c26247b1da344986256ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-9313c1ac907826e498dda152695c192a
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-9313c1ac907826e498dda152695c192a
+    projectPath: Temp\UnityTempFile-9313c1ac907826e498dda152695c192a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-93736973b0aa7d14db5607e9372286e4
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-93736973b0aa7d14db5607e9372286e4
+    projectPath: Temp\UnityTempFile-93736973b0aa7d14db5607e9372286e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-94b5d94c44de1d049a4617f7c80d12af
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-94b5d94c44de1d049a4617f7c80d12af
+    projectPath: Temp\UnityTempFile-94b5d94c44de1d049a4617f7c80d12af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-957fda3ba6475094abd4eacabefce15a
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-957fda3ba6475094abd4eacabefce15a
+    projectPath: Temp\UnityTempFile-957fda3ba6475094abd4eacabefce15a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-967a3315649500d4d8709f14d6a0fa24
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-967a3315649500d4d8709f14d6a0fa24
+    projectPath: Temp\UnityTempFile-967a3315649500d4d8709f14d6a0fa24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-9747695aed20b6043ae70df99c30c01a
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-9747695aed20b6043ae70df99c30c01a
+    projectPath: Temp\UnityTempFile-9747695aed20b6043ae70df99c30c01a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-98076fce5d679c349a8f20150348366d
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-98076fce5d679c349a8f20150348366d
+    projectPath: Temp\UnityTempFile-98076fce5d679c349a8f20150348366d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-982502740b738f244988050f77f04549
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-982502740b738f244988050f77f04549
+    projectPath: Temp\UnityTempFile-982502740b738f244988050f77f04549
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-9ac374684171c3e4e8ec24a6a901cce5
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-9ac374684171c3e4e8ec24a6a901cce5
+    projectPath: Temp\UnityTempFile-9ac374684171c3e4e8ec24a6a901cce5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-9c609cf272ecbb64c85c211da68b4e43
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-9c609cf272ecbb64c85c211da68b4e43
+    projectPath: Temp\UnityTempFile-9c609cf272ecbb64c85c211da68b4e43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-a2c1ad9aed8894b429e545dffd8e43fa
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-a2c1ad9aed8894b429e545dffd8e43fa
+    projectPath: Temp\UnityTempFile-a2c1ad9aed8894b429e545dffd8e43fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-a80f6a5fa2365fa49b70963cddca2532
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-a80f6a5fa2365fa49b70963cddca2532
+    projectPath: Temp\UnityTempFile-a80f6a5fa2365fa49b70963cddca2532
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-aaa7bfaeb1e685f4abb8ccac3aa34b23
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-aaa7bfaeb1e685f4abb8ccac3aa34b23
+    projectPath: Temp\UnityTempFile-aaa7bfaeb1e685f4abb8ccac3aa34b23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-b08a3e3d5a16b144ea09c3a3ce2d70e4
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-b08a3e3d5a16b144ea09c3a3ce2d70e4
+    projectPath: Temp\UnityTempFile-b08a3e3d5a16b144ea09c3a3ce2d70e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-b43d6c04bcda255448441c685257bf4b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-b43d6c04bcda255448441c685257bf4b
+    projectPath: Temp\UnityTempFile-b43d6c04bcda255448441c685257bf4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-b822c953b39f8ef49bf4367b910aa0bf
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-b822c953b39f8ef49bf4367b910aa0bf
+    projectPath: Temp\UnityTempFile-b822c953b39f8ef49bf4367b910aa0bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-be39e31a788e9664fb61c22b076cc752
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-be39e31a788e9664fb61c22b076cc752
+    projectPath: Temp\UnityTempFile-be39e31a788e9664fb61c22b076cc752
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-bf2c8e586aeda58448e4fe03ad0d52ae
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-bf2c8e586aeda58448e4fe03ad0d52ae
+    projectPath: Temp\UnityTempFile-bf2c8e586aeda58448e4fe03ad0d52ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-c107986a8b4d21d46af359bb4e5157f1
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-c107986a8b4d21d46af359bb4e5157f1
+    projectPath: Temp\UnityTempFile-c107986a8b4d21d46af359bb4e5157f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-cb5a24f2532e4024185301908ba47c81
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-cb5a24f2532e4024185301908ba47c81
+    projectPath: Temp\UnityTempFile-cb5a24f2532e4024185301908ba47c81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-cc784f916df4f744c949379a978b7682
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-cc784f916df4f744c949379a978b7682
+    projectPath: Temp\UnityTempFile-cc784f916df4f744c949379a978b7682
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-d2a7521f9d67257408d1ad7694936c3c
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-d2a7521f9d67257408d1ad7694936c3c
+    projectPath: Temp\UnityTempFile-d2a7521f9d67257408d1ad7694936c3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-d301d6fcf39a46d4a8aade18b02bd3ee
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-d301d6fcf39a46d4a8aade18b02bd3ee
+    projectPath: Temp\UnityTempFile-d301d6fcf39a46d4a8aade18b02bd3ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-d3303ba11596c8c438bbd7c44cc42e03
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-d3303ba11596c8c438bbd7c44cc42e03
+    projectPath: Temp\UnityTempFile-d3303ba11596c8c438bbd7c44cc42e03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-d77761dd306377948adefac83bc1e275
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-d77761dd306377948adefac83bc1e275
+    projectPath: Temp\UnityTempFile-d77761dd306377948adefac83bc1e275
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-d7b07f450b67a4c4489eedb25634f84d
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-d7b07f450b67a4c4489eedb25634f84d
+    projectPath: Temp\UnityTempFile-d7b07f450b67a4c4489eedb25634f84d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-d7b973018cb8e2141bf01c11c05a2563
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-d7b973018cb8e2141bf01c11c05a2563
+    projectPath: Temp\UnityTempFile-d7b973018cb8e2141bf01c11c05a2563
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-dd29f9ed72ed9af48a60f26dd8f92e7c
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-dd29f9ed72ed9af48a60f26dd8f92e7c
+    projectPath: Temp\UnityTempFile-dd29f9ed72ed9af48a60f26dd8f92e7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-dd52ff077e475d342878c9ddf9af178b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-dd52ff077e475d342878c9ddf9af178b
+    projectPath: Temp\UnityTempFile-dd52ff077e475d342878c9ddf9af178b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-e24f58fd21e8e9c47b01d7844e33a4c1
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-e24f58fd21e8e9c47b01d7844e33a4c1
+    projectPath: Temp\UnityTempFile-e24f58fd21e8e9c47b01d7844e33a4c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-e2b470b1e937b5043bc8a907dd8614e8
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-e2b470b1e937b5043bc8a907dd8614e8
+    projectPath: Temp\UnityTempFile-e2b470b1e937b5043bc8a907dd8614e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-e3b2eee29f307174aa29fc47fefd71c2
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-e3b2eee29f307174aa29fc47fefd71c2
+    projectPath: Temp\UnityTempFile-e3b2eee29f307174aa29fc47fefd71c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-e5315da2ef00e2643ac342081ec5a8f8
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-e5315da2ef00e2643ac342081ec5a8f8
+    projectPath: Temp\UnityTempFile-e5315da2ef00e2643ac342081ec5a8f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-e535d366de8a8534d9cf7c6edf72d720
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-e535d366de8a8534d9cf7c6edf72d720
+    projectPath: Temp\UnityTempFile-e535d366de8a8534d9cf7c6edf72d720
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-eb5bc3adabda6d642965cbd6edb22e06
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-eb5bc3adabda6d642965cbd6edb22e06
+    projectPath: Temp\UnityTempFile-eb5bc3adabda6d642965cbd6edb22e06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-ec868e769e7f41a4d8bbde95ba3fa2d8
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-ec868e769e7f41a4d8bbde95ba3fa2d8
+    projectPath: Temp\UnityTempFile-ec868e769e7f41a4d8bbde95ba3fa2d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-ecb7d123c74dafd4fa1f7cd6c825fc26
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-ecb7d123c74dafd4fa1f7cd6c825fc26
+    projectPath: Temp\UnityTempFile-ecb7d123c74dafd4fa1f7cd6c825fc26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-ee14009312503c5458a6bd5f49da14b8
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-ee14009312503c5458a6bd5f49da14b8
+    projectPath: Temp\UnityTempFile-ee14009312503c5458a6bd5f49da14b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-f154734d8b95a174199961c18e609fdd
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-f154734d8b95a174199961c18e609fdd
+    projectPath: Temp\UnityTempFile-f154734d8b95a174199961c18e609fdd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-f3c0d92b76c1f5e47a82a1096031fafd
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-f3c0d92b76c1f5e47a82a1096031fafd
+    projectPath: Temp\UnityTempFile-f3c0d92b76c1f5e47a82a1096031fafd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-f51c839f04d78204aacca7c8158cf1af
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-f51c839f04d78204aacca7c8158cf1af
+    projectPath: Temp\UnityTempFile-f51c839f04d78204aacca7c8158cf1af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-fa9c3e0786076234ebb0c77ceda4772b
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-fa9c3e0786076234ebb0c77ceda4772b
+    projectPath: Temp\UnityTempFile-fa9c3e0786076234ebb0c77ceda4772b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-fac97f0f9c60b4d4db171ddaf7b1e716
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-fac97f0f9c60b4d4db171ddaf7b1e716
+    projectPath: Temp\UnityTempFile-fac97f0f9c60b4d4db171ddaf7b1e716
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-fc04835602b7b2d428ad3b5b3676d02a
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-fc04835602b7b2d428ad3b5b3676d02a
+    projectPath: Temp\UnityTempFile-fc04835602b7b2d428ad3b5b3676d02a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-fc7a7665578f2a24b971707c50495529
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-fc7a7665578f2a24b971707c50495529
+    projectPath: Temp\UnityTempFile-fc7a7665578f2a24b971707c50495529
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-fe6648a4e2a42424fb233b982ac9a14c
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-fe6648a4e2a42424fb233b982ac9a14c
+    projectPath: Temp\UnityTempFile-fe6648a4e2a42424fb233b982ac9a14c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\workerlic
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\UserSettings\EditorUserSettings.asset
+    fullPath: D:\black\Documents\GitHub\CS347-Project-2\CS347 Project 2\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

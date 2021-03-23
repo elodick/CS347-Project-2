@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-03-22T22:02:21.179-05:00
+  lastUpdatedAtString: 2021-03-22T22:19:14.203-05:00
   initializedAtString: 2021-03-22T21:27:36.432-05:00
-  localBranches: []
+  localBranches:
+  - name: master
+    tracking: origin/master
   remoteBranches: []
   remotes:
   - name: origin
@@ -26,8 +28,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/elodick/CS347-Project-2.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
