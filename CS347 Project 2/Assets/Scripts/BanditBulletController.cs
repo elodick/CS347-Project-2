@@ -6,11 +6,11 @@ using UnityEngine;
  * life is how long the bullet remains on screen before being destroyed 
  * Prefab to use: banditbullet */
 
-public class BulletController : MonoBehaviour
+public class BanditBulletController : MonoBehaviour
 {
 
     public float speed = 0.2f;
-    public float life = 5;
+    public float life = 50;
     /*OnTrigger and OnCollision functions will be filled in once we have the player object and 
      * determine what happens when player is struck by a bullet */
     private void OnTriggerEnter2D(Collider2D collision)

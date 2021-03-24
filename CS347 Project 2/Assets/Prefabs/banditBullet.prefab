@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 7001896305531626003}
   - component: {fileID: -2774726171869094742}
   - component: {fileID: -6506219883477464448}
-  - component: {fileID: 7065844416465710825}
+  - component: {fileID: 6393939258122484392}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: banditBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -132,7 +132,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 6
---- !u!114 &7065844416465710825
+--- !u!114 &6393939258122484392
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

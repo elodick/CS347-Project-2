@@ -15,11 +15,11 @@ C:/Users/John/Desktop/School/Spring 2021/CS347/CS347-Project-2/CS347 Project 2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-10641
+12733
 Successfully changed project path to: C:/Users/John/Desktop/School/Spring 2021/CS347/CS347-Project-2/CS347 Project 2
 C:/Users/John/Desktop/School/Spring 2021/CS347/CS347-Project-2/CS347 Project 2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 34.30 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.09 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,22 +35,22 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56976
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56372
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001680 seconds.
+Registered in 0.001664 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 31.32 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 33.20 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.925 seconds
+- Completed reload, in  0.903 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005174 seconds.
+Registered in 0.005706 seconds.
 Begin MonoManager ReloadAssembly
 Script error: OnTriggerEnter2D
 This message parameter has to be of type: Collider2D
@@ -69,180 +69,54 @@ This message parameter has to be of type: Collider2D
 The message will be ignored.
 
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 36.31 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.38 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.827 seconds
+- Completed reload, in  0.847 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1830 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1832 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 86.1 MB.
 System memory in use after: 86.1 MB.
 
-Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2297.
-Total: 2.245800 ms (FindLiveObjects: 0.287100 ms CreateObjectMapping: 0.052700 ms MarkObjects: 1.775300 ms  DeleteObjects: 0.129800 ms)
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.534300 ms (FindLiveObjects: 0.228400 ms CreateObjectMapping: 0.044800 ms MarkObjects: 2.113100 ms  DeleteObjects: 0.146600 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts
-  artifactKey: Guid(57cd2bfff22a0af4d8e7e21fca15ce42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(57cd2bfff22a0af4d8e7e21fca15ce42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339c5a874654ced4a9d3791ea4b0b9c5') in 0.010497 seconds
-  Import took 0.013584 seconds .
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(967e717ec8d77bf40b9ff78f8bae7b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(967e717ec8d77bf40b9ff78f8bae7b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4826678b71668d38216d80949fb06e9') in 0.016399 seconds
+  Import took 0.019279 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.846335 seconds.
-  path: Assets/Scripts/BulletController.cs
-  artifactKey: Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/BulletController.cs using Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7e345a172129bd4a615013de79f3bd') in 0.025292 seconds
-  Import took 0.028368 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.026873 seconds.
-  path: Assets/Scripts/BulletController.cs
-  artifactKey: Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/BulletController.cs using Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7e345a172129bd4a615013de79f3bd') in 0.003070 seconds
-  Import took 0.006158 seconds .
+  Time since last request: 0.000235 seconds.
+  path: Assets/Scenes/Town Side scrolling.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Town Side scrolling.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a4ea56e54cd5a0b68075dbb04a9a05') in 0.006758 seconds
+  Import took 0.009140 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.245909 seconds.
+Registered in 0.005071 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.816 seconds
-Platform modules already initialized, skipping
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1825 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.1 MB.
-System memory in use after: 86.1 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2301.
-Total: 2.038700 ms (FindLiveObjects: 0.237900 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.646900 ms  DeleteObjects: 0.109400 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.625140 seconds.
-  path: Assets/Prefabs/banditBullet.prefab
-  artifactKey: Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/banditBullet.prefab using Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88442b59f9f4575697637e3a01666abe') in 0.078462 seconds
-  Import took 0.081700 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.422588 seconds.
-  path: Assets/Prefabs/Bullet.prefab
-  artifactKey: Guid(fb81e08e8f30a82418a32a53867d7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Bullet.prefab using Guid(fb81e08e8f30a82418a32a53867d7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32f9a565f5514fff326222871d9cf52') in 0.011279 seconds
-  Import took 0.014695 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(49d5df27809c34941a33825f62ec02f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(49d5df27809c34941a33825f62ec02f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60f03dc87fa25b89f778c6fd8b9c02e') in 0.010219 seconds
-  Import took 0.014204 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Prefabs/Ground.prefab
-  artifactKey: Guid(0f9547f3ec6b7e14385761e8052e9672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ground.prefab using Guid(0f9547f3ec6b7e14385761e8052e9672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b1f436ec2bf9ab6f8c4c883c79ea06') in 0.009035 seconds
-  Import took 0.012445 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007318 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.737 seconds
-Platform modules already initialized, skipping
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.3 MB.
-System memory in use after: 89.3 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2314.
-Total: 3.535200 ms (FindLiveObjects: 0.559500 ms CreateObjectMapping: 0.157400 ms MarkObjects: 2.688500 ms  DeleteObjects: 0.127500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.481697 seconds.
-  path: Assets/Scripts/BanditBulletController.cs
-  artifactKey: Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/BanditBulletController.cs using Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e0850244f33e68741d96d323677f3d') in 0.013088 seconds
-  Import took 0.016460 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005434 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.726 seconds
+- Completed reload, in  0.775 seconds
 Platform modules already initialized, skipping
 Script error: OnTriggerEnter2D
 This message parameter has to be of type: Collider2D
@@ -263,321 +137,1927 @@ The message will be ignored.
 Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.1 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 1.979700 ms (FindLiveObjects: 0.235500 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.599300 ms  DeleteObjects: 0.100000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.072265 seconds.
+  path: Assets/Prefabs/Bullet.prefab
+  artifactKey: Guid(fb81e08e8f30a82418a32a53867d7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Bullet.prefab using Guid(fb81e08e8f30a82418a32a53867d7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e41c0c8b4728eedd995f6dba156bea') in 0.089499 seconds
+  Import took 0.092759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.529523 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(23387fad8f9ef7b4198117c9c806c27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(23387fad8f9ef7b4198117c9c806c27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc4e39975337645c9d7239eddedb24b') in 0.012367 seconds
+  Import took 0.015425 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 2.731400 ms (FindLiveObjects: 0.392200 ms CreateObjectMapping: 0.065000 ms MarkObjects: 2.153000 ms  DeleteObjects: 0.119800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005051 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 89.3 MB.
 System memory in use after: 89.3 MB.
 
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2318.
-Total: 1.905800 ms (FindLiveObjects: 0.199600 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.556700 ms  DeleteObjects: 0.105200 ms)
+Total: 2.456100 ms (FindLiveObjects: 0.213600 ms CreateObjectMapping: 0.043200 ms MarkObjects: 2.046500 ms  DeleteObjects: 0.151900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.938447 seconds.
-  path: Assets/Sprites/Background.jpg
-  artifactKey: Guid(a5de3eac51e925b43b9c1b1e9defbdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Background.jpg using Guid(a5de3eac51e925b43b9c1b1e9defbdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b51087795f5c37925794bc32e2fc57') in 0.087749 seconds
-  Import took 0.090968 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Sprites/Bullet.png
-  artifactKey: Guid(30a0eea252cb7a94ba04e79dd47a9ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Bullet.png using Guid(30a0eea252cb7a94ba04e79dd47a9ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '433b825e5a725ca50cd022582660e26d') in 0.018177 seconds
-  Import took 0.020843 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Sprites/Square.png
-  artifactKey: Guid(fb60e7f465b633b41960838ff076ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Square.png using Guid(fb60e7f465b633b41960838ff076ff25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ab170721fd0dcd17400ba834653a94') in 0.020356 seconds
-  Import took 0.022925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/Sprites/cowboyproto.png
-  artifactKey: Guid(4bfa1f9e3c2b7994691e00af405802a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/cowboyproto.png using Guid(4bfa1f9e3c2b7994691e00af405802a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da311c508c2c0e484a211f7231fa7db8') in 0.017650 seconds
-  Import took 0.020248 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 31.002027 seconds.
-  path: Assets/Prefabs 1
-  artifactKey: Guid(ebe0242667f57834cbf2bf61215cbbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs 1 using Guid(ebe0242667f57834cbf2bf61215cbbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9345cde281b5ce420ccddc994ed58fd1') in 0.008478 seconds
-  Import took 0.011456 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.883092 seconds.
-  path: Assets/Resources 1
-  artifactKey: Guid(4cf6e5b89999c464bb531af886254c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources 1 using Guid(4cf6e5b89999c464bb531af886254c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b9c249ade256fad5a080397837bc1b') in 0.010604 seconds
-  Import took 0.013871 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.994520 seconds.
-  path: Assets/Scenes 1
-  artifactKey: Guid(32d16420ea82ae944a77b731d25d046d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes 1 using Guid(32d16420ea82ae944a77b731d25d046d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1679ff9dc35a6d523eb5ac13411b73') in 0.007972 seconds
-  Import took 0.011176 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.105553 seconds.
-  path: Assets/Scripts 1
-  artifactKey: Guid(4410913832af1924a9263ddf6f0a6cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts 1 using Guid(4410913832af1924a9263ddf6f0a6cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1473eaade172c37471bc3147d873b1') in 0.008551 seconds
-  Import took 0.011525 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.986360 seconds.
-  path: Assets/Sprites 1
-  artifactKey: Guid(69bc677d11b560c4f8bb888565d3e23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites 1 using Guid(69bc677d11b560c4f8bb888565d3e23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e19c2a0ab9e14bec49c70973ff3d41a') in 0.008226 seconds
-  Import took 0.011216 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.874702 seconds.
-  path: Assets/Scripts/BanditController.cs
-  artifactKey: Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/BanditController.cs using Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8a7fae9f8f6e88aaa939885612cd0c') in 0.012369 seconds
-  Import took 0.015365 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.014173 seconds.
-  path: Assets/Scripts/BanditController.cs
-  artifactKey: Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/BanditController.cs using Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8a7fae9f8f6e88aaa939885612cd0c') in 0.007022 seconds
-  Import took 0.010175 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.468940 seconds.
-  path: Assets/Scripts/Bullet.cs
-  artifactKey: Guid(bab045ec37fe28e45820cbcc096e334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Bullet.cs using Guid(bab045ec37fe28e45820cbcc096e334b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a753bdc0c34de93625a86e9bfbe2b46') in 0.006028 seconds
-  Import took 0.008982 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.291865 seconds.
-  path: Assets/Resources/Bullet.prefab
-  artifactKey: Guid(08190525d13dc8145b5d3e30875ff828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Bullet.prefab using Guid(08190525d13dc8145b5d3e30875ff828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7069c2dd37166ef9cdef0c3cb1def26c') in 0.030981 seconds
-  Import took 0.034109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.597752 seconds.
+  Time since last request: 225.301480 seconds.
   path: Assets/Prefabs/banditBullet.prefab
   artifactKey: Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/banditBullet.prefab using Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f391e8da5bdf96aa09e1190a18046e3a') in 0.009076 seconds
-  Import took 0.012215 seconds .
+Start importing Assets/Prefabs/banditBullet.prefab using Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d023429b4e726b836bc3fb60bfa23c') in 0.055515 seconds
+  Import took 0.059006 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005288 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.791 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 1.941600 ms (FindLiveObjects: 0.200200 ms CreateObjectMapping: 0.041600 ms MarkObjects: 1.588400 ms  DeleteObjects: 0.110500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/Prefabs/Bullet.prefab
-  artifactKey: Guid(fb81e08e8f30a82418a32a53867d7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Bullet.prefab using Guid(fb81e08e8f30a82418a32a53867d7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fea2f54e243951be62e6213338b6fe') in 0.024075 seconds
-  Import took 0.026674 seconds .
+  Time since last request: 85.802529 seconds.
+  path: Assets/Scripts/BanditBulletController.cs
+  artifactKey: Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BanditBulletController.cs using Guid(a65e7a67692a5fb4e8776458b7dacb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5413ac5bbc0b08d414793aaf0998b6e9') in 0.009531 seconds
+  Import took 0.012453 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005296 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.787 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 2.503100 ms (FindLiveObjects: 0.245800 ms CreateObjectMapping: 0.046100 ms MarkObjects: 2.101200 ms  DeleteObjects: 0.109000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 2.179200 ms (FindLiveObjects: 0.217400 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.816100 ms  DeleteObjects: 0.101800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005395 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 2.192000 ms (FindLiveObjects: 0.232000 ms CreateObjectMapping: 0.045700 ms MarkObjects: 1.804400 ms  DeleteObjects: 0.109200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004891 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.752 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 2.062700 ms (FindLiveObjects: 0.213900 ms CreateObjectMapping: 0.043400 ms MarkObjects: 1.696000 ms  DeleteObjects: 0.108400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005050 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.784 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 1.988700 ms (FindLiveObjects: 0.222000 ms CreateObjectMapping: 0.047100 ms MarkObjects: 1.611800 ms  DeleteObjects: 0.106700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Prefabs/Player.prefab
-  artifactKey: Guid(49d5df27809c34941a33825f62ec02f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Player.prefab using Guid(49d5df27809c34941a33825f62ec02f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51b31a3075973a1e71870a6efe26962') in 0.023190 seconds
-  Import took 0.025835 seconds .
+  Time since last request: 178.169021 seconds.
+  path: Assets/Prefabs/banditBullet.prefab
+  artifactKey: Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/banditBullet.prefab using Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de20cf7bbf4d24cfd20dbfabcb7898c') in 0.045625 seconds
+  Import took 0.049036 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.561541 seconds.
-  path: Assets/Background/Background1.png
-  artifactKey: Guid(47818f978e3c56446a8a73f8df159583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/Background1.png using Guid(47818f978e3c56446a8a73f8df159583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1311602d1e691e28a4aef89a36ceb6') in 0.026399 seconds
-  Import took 0.029771 seconds .
+  Time since last request: 9.479466 seconds.
+  path: Assets/Prefabs/banditBullet.prefab
+  artifactKey: Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/banditBullet.prefab using Guid(1edb9731f0a44ed4197f559358a03759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fd9400909ab6f87f8af168d31ddba8f') in 0.019479 seconds
+  Import took 0.022750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005531 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 2.215400 ms (FindLiveObjects: 0.290900 ms CreateObjectMapping: 0.056100 ms MarkObjects: 1.730700 ms  DeleteObjects: 0.136900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005226 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.809 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 2.178300 ms (FindLiveObjects: 0.210300 ms CreateObjectMapping: 0.042700 ms MarkObjects: 1.809500 ms  DeleteObjects: 0.115000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005278 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 2.118300 ms (FindLiveObjects: 0.307200 ms CreateObjectMapping: 0.045300 ms MarkObjects: 1.639100 ms  DeleteObjects: 0.125600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 2.706400 ms (FindLiveObjects: 0.394700 ms CreateObjectMapping: 0.149300 ms MarkObjects: 2.038200 ms  DeleteObjects: 0.122900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 2.039900 ms (FindLiveObjects: 0.241000 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.644300 ms  DeleteObjects: 0.107000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.801 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 2.058900 ms (FindLiveObjects: 0.234600 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.666100 ms  DeleteObjects: 0.112100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 2.014500 ms (FindLiveObjects: 0.240500 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.611700 ms  DeleteObjects: 0.117500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005851 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2376.
+Total: 2.581200 ms (FindLiveObjects: 0.272700 ms CreateObjectMapping: 0.045500 ms MarkObjects: 2.129900 ms  DeleteObjects: 0.131500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.793 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2380.
+Total: 2.298400 ms (FindLiveObjects: 0.319500 ms CreateObjectMapping: 0.046300 ms MarkObjects: 1.797400 ms  DeleteObjects: 0.133500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Background/blocks1.png
-  artifactKey: Guid(b3d2a138428998c40a84c37e367bdb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/blocks1.png using Guid(b3d2a138428998c40a84c37e367bdb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66b4a7af5533e110a4697ad2be7a07d') in 0.025504 seconds
-  Import took 0.028375 seconds .
+  Time since last request: 774.897138 seconds.
+  path: Assets/Scripts/BanditController.cs
+  artifactKey: Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BanditController.cs using Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db81f6eedbe36cf8a7f9b6b74d0daea') in 0.012407 seconds
+  Import took 0.015700 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Background/house01.png
-  artifactKey: Guid(5e230cf9e1cb56143b7ea93b05e6cc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/house01.png using Guid(5e230cf9e1cb56143b7ea93b05e6cc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfab6465dd83ce38cd1e525513358b78') in 0.037180 seconds
-  Import took 0.039724 seconds .
+  Time since last request: 0.011211 seconds.
+  path: Assets/Scripts/BanditController.cs
+  artifactKey: Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BanditController.cs using Guid(e7e49200436295044bfb353b5f6a45fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db81f6eedbe36cf8a7f9b6b74d0daea') in 0.003704 seconds
+  Import took 0.006888 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 1.908500 ms (FindLiveObjects: 0.217400 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.536800 ms  DeleteObjects: 0.110300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/Background/blocks2_0.asset
-  artifactKey: Guid(5e9ba48b064326c4997c87b66a8dcdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/blocks2_0.asset using Guid(5e9ba48b064326c4997c87b66a8dcdfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b548700329c342c7c753f2c218fe73d0') in 0.083581 seconds
-  Import took 0.086151 seconds .
+  Time since last request: 23.119837 seconds.
+  path: Assets/Scripts/EnemyController.cs
+  artifactKey: Guid(3750b9842e4355c4294c5ca894da87c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyController.cs using Guid(3750b9842e4355c4294c5ca894da87c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd311c209c6c1c293c9c34726ad1432') in 0.009536 seconds
+  Import took 0.012697 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005393 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.790 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2388.
+Total: 2.097900 ms (FindLiveObjects: 0.241100 ms CreateObjectMapping: 0.044800 ms MarkObjects: 1.704500 ms  DeleteObjects: 0.106700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005030 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.784 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2392.
+Total: 2.213700 ms (FindLiveObjects: 0.249000 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.805700 ms  DeleteObjects: 0.110100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005082 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2396.
+Total: 2.502400 ms (FindLiveObjects: 0.383100 ms CreateObjectMapping: 0.065500 ms MarkObjects: 1.923600 ms  DeleteObjects: 0.128600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007011 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2400.
+Total: 2.398800 ms (FindLiveObjects: 0.339600 ms CreateObjectMapping: 0.043100 ms MarkObjects: 1.884100 ms  DeleteObjects: 0.130200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.820 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2404.
+Total: 2.495100 ms (FindLiveObjects: 0.324700 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.989500 ms  DeleteObjects: 0.134500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005535 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 2.680900 ms (FindLiveObjects: 0.246200 ms CreateObjectMapping: 0.040200 ms MarkObjects: 2.261200 ms  DeleteObjects: 0.132100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005019 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.791 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2412.
+Total: 2.666500 ms (FindLiveObjects: 0.286100 ms CreateObjectMapping: 0.041900 ms MarkObjects: 2.216800 ms  DeleteObjects: 0.120700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005404 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2416.
+Total: 2.566300 ms (FindLiveObjects: 0.354300 ms CreateObjectMapping: 0.052400 ms MarkObjects: 2.033000 ms  DeleteObjects: 0.125800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2420.
+Total: 2.206600 ms (FindLiveObjects: 0.211900 ms CreateObjectMapping: 0.043800 ms MarkObjects: 1.829700 ms  DeleteObjects: 0.120200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2424.
+Total: 2.101300 ms (FindLiveObjects: 0.243200 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.704000 ms  DeleteObjects: 0.107200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005126 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2428.
+Total: 5.047000 ms (FindLiveObjects: 0.585900 ms CreateObjectMapping: 0.062500 ms MarkObjects: 4.224900 ms  DeleteObjects: 0.172000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/Background/blocks2_1.asset
-  artifactKey: Guid(a2b2c818f6f0223458d7d41dada7167b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/blocks2_1.asset using Guid(a2b2c818f6f0223458d7d41dada7167b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46beca4eafdce22d8749c2e103d3502') in 0.016585 seconds
-  Import took 0.019171 seconds .
+  Time since last request: 1258.033035 seconds.
+  path: Assets/Scripts/VultureController.cs
+  artifactKey: Guid(ddbdca01cf1400f4bbb43ca9f6cce2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/VultureController.cs using Guid(ddbdca01cf1400f4bbb43ca9f6cce2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11e5de930a876c588febde376e714eb') in 0.010399 seconds
+  Import took 0.014254 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Background/Square.png
-  artifactKey: Guid(3ce994e6ca22433489444f7e6f4292e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/Square.png using Guid(3ce994e6ca22433489444f7e6f4292e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265845524aeb8a59dc947d6843484c80') in 0.033369 seconds
-  Import took 0.035878 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2432.
+Total: 2.189700 ms (FindLiveObjects: 0.278400 ms CreateObjectMapping: 0.046700 ms MarkObjects: 1.746900 ms  DeleteObjects: 0.116500 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Background/barrel.png
-  artifactKey: Guid(22d0c3617b6a6a14abdd443d4030d334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/barrel.png using Guid(22d0c3617b6a6a14abdd443d4030d334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2682080993f81020b95ff82bc867c985') in 0.041170 seconds
-  Import took 0.043663 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005190 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2436.
+Total: 2.513900 ms (FindLiveObjects: 0.280600 ms CreateObjectMapping: 0.043700 ms MarkObjects: 2.063500 ms  DeleteObjects: 0.124800 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/Background/wagon.png
-  artifactKey: Guid(fe4b0c19904edc740b1580fd464f88d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/wagon.png using Guid(fe4b0c19904edc740b1580fd464f88d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2bceeafad29e5f34bcd38f55f9516cd') in 0.032573 seconds
-  Import took 0.035039 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005096 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.803 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2440.
+Total: 2.059200 ms (FindLiveObjects: 0.248900 ms CreateObjectMapping: 0.044800 ms MarkObjects: 1.656200 ms  DeleteObjects: 0.108600 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/Background/crate.png
-  artifactKey: Guid(f2bf9ade829911e4284708fa27fd1cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/crate.png using Guid(f2bf9ade829911e4284708fa27fd1cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea31afe80305ab0a96b6ece22890cb76') in 0.037420 seconds
-  Import took 0.040113 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2444.
+Total: 2.404600 ms (FindLiveObjects: 0.240100 ms CreateObjectMapping: 0.044300 ms MarkObjects: 1.989400 ms  DeleteObjects: 0.129200 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Background/cactus.png
-  artifactKey: Guid(20e3f4af5a0f845459dffa8df0177b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/cactus.png using Guid(20e3f4af5a0f845459dffa8df0177b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31aa2baf243c0102706571d8332ad45') in 0.071634 seconds
-  Import took 0.074727 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.807 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2448.
+Total: 2.122300 ms (FindLiveObjects: 0.265200 ms CreateObjectMapping: 0.045800 ms MarkObjects: 1.686400 ms  DeleteObjects: 0.123700 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.022531 seconds.
-  path: Assets/Background/Background2.png
-  artifactKey: Guid(193c4e32775ae034a81e8d76ec6311ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/Background2.png using Guid(193c4e32775ae034a81e8d76ec6311ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10af6daeea6cb995e15e5d1992124995') in 0.028218 seconds
-  Import took 0.031796 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005318 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2452.
+Total: 2.113100 ms (FindLiveObjects: 0.211200 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.726500 ms  DeleteObjects: 0.131100 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000156 seconds.
-  path: Assets/Background/blocks1_1.asset
-  artifactKey: Guid(ba042399eee56364cbfd2d4cb149e8f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/blocks1_1.asset using Guid(ba042399eee56364cbfd2d4cb149e8f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9341ce933a2adac5f20cbde8e58fa8') in 0.016707 seconds
-  Import took 0.019385 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005067 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2456.
+Total: 2.190300 ms (FindLiveObjects: 0.265500 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.747600 ms  DeleteObjects: 0.130200 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Background/chest.png
-  artifactKey: Guid(94766953a4c83cd48b26cb2d71b8173d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/chest.png using Guid(94766953a4c83cd48b26cb2d71b8173d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a95188154a417f647ee0dabc8f3d902') in 0.029792 seconds
-  Import took 0.032256 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004973 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2460.
+Total: 2.066100 ms (FindLiveObjects: 0.248500 ms CreateObjectMapping: 0.044000 ms MarkObjects: 1.654900 ms  DeleteObjects: 0.117900 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/Background/watertower.png
-  artifactKey: Guid(de5ffe1639186894fb1d1b6282b09793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/watertower.png using Guid(de5ffe1639186894fb1d1b6282b09793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee5f13a10648bb246bda0b487549570') in 0.031337 seconds
-  Import took 0.033853 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2464.
+Total: 1.967300 ms (FindLiveObjects: 0.241900 ms CreateObjectMapping: 0.045700 ms MarkObjects: 1.567300 ms  DeleteObjects: 0.111600 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/Background/blocks2.png
-  artifactKey: Guid(0ad867c9465f63f448bb689aa97131a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/blocks2.png using Guid(0ad867c9465f63f448bb689aa97131a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d75ea94ff65d9b87ad3e469401c263') in 0.025101 seconds
-  Import took 0.027633 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005102 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2468.
+Total: 2.060900 ms (FindLiveObjects: 0.263400 ms CreateObjectMapping: 0.048100 ms MarkObjects: 1.628100 ms  DeleteObjects: 0.120200 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Background/flagpole.png
-  artifactKey: Guid(faabc48b8ef95be47905f13af1edead3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/flagpole.png using Guid(faabc48b8ef95be47905f13af1edead3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8dfe8d47f2e635209830698a05f302d') in 0.029674 seconds
-  Import took 0.032591 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004910 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2472.
+Total: 2.652100 ms (FindLiveObjects: 0.272400 ms CreateObjectMapping: 0.045800 ms MarkObjects: 2.192700 ms  DeleteObjects: 0.139900 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/Background/blocks1_2.asset
-  artifactKey: Guid(3176b9fd1a5a2f54990b5c2b194e0172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/blocks1_2.asset using Guid(3176b9fd1a5a2f54990b5c2b194e0172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31463f900cc645cbe8109881eae40e24') in 0.019959 seconds
-  Import took 0.022997 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005285 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.837 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2476.
+Total: 2.998200 ms (FindLiveObjects: 0.321100 ms CreateObjectMapping: 0.046400 ms MarkObjects: 2.414200 ms  DeleteObjects: 0.215200 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Background/house02.png
-  artifactKey: Guid(870e16a7198ede84cb987474fa85cf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/house02.png using Guid(870e16a7198ede84cb987474fa85cf1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38915d7aed2ca5bbf4b9baa8af170df0') in 0.032843 seconds
-  Import took 0.035464 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004904 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2480.
+Total: 2.385900 ms (FindLiveObjects: 0.228900 ms CreateObjectMapping: 0.044600 ms MarkObjects: 1.985800 ms  DeleteObjects: 0.125500 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Background/well.png
-  artifactKey: Guid(5b185fd8b626ee74c91ab706a24720ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/well.png using Guid(5b185fd8b626ee74c91ab706a24720ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a358948b079b6fe666c84bb0ab5bacf4') in 0.027575 seconds
-  Import took 0.030940 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004958 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2484.
+Total: 2.329100 ms (FindLiveObjects: 0.264100 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.906000 ms  DeleteObjects: 0.112100 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000369 seconds.
-  path: Assets/Background/Blocks.prefab
-  artifactKey: Guid(08e902370e219d94099b60b3f0a23da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/Blocks.prefab using Guid(08e902370e219d94099b60b3f0a23da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef386554d6966d80fc6ffe956a71dc12') in 0.013270 seconds
-  Import took 0.016710 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2488.
+Total: 2.491000 ms (FindLiveObjects: 0.248000 ms CreateObjectMapping: 0.045400 ms MarkObjects: 2.050300 ms  DeleteObjects: 0.145900 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Background/house03.png
-  artifactKey: Guid(fe28fbdcedaa20042baf9373612d6924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/house03.png using Guid(fe28fbdcedaa20042baf9373612d6924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d8c0e155278915470897a4615b5269') in 0.033793 seconds
-  Import took 0.036697 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.805 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2492.
+Total: 2.232300 ms (FindLiveObjects: 0.238600 ms CreateObjectMapping: 0.046300 ms MarkObjects: 1.817600 ms  DeleteObjects: 0.128700 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/Background/blocks1_0.asset
-  artifactKey: Guid(b35628d4d1a753a449168c02245c91fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/blocks1_0.asset using Guid(b35628d4d1a753a449168c02245c91fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507d2b818325052ef9acb7fbbc038e3b') in 0.018724 seconds
-  Import took 0.021408 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005407 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2496.
+Total: 2.012700 ms (FindLiveObjects: 0.241800 ms CreateObjectMapping: 0.044600 ms MarkObjects: 1.611300 ms  DeleteObjects: 0.114200 ms)
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Background/cactus2.png
-  artifactKey: Guid(e216181546f67084f87a258a122ebea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Background/cactus2.png using Guid(e216181546f67084f87a258a122ebea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ac09ad1db9e225a2d9c61f8f358529') in 0.032153 seconds
-  Import took 0.035257 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005114 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2500.
+Total: 2.126600 ms (FindLiveObjects: 0.250900 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.705000 ms  DeleteObjects: 0.122200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.768 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2504.
+Total: 1.940500 ms (FindLiveObjects: 0.220800 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.565500 ms  DeleteObjects: 0.110100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005250 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2508.
+Total: 2.098400 ms (FindLiveObjects: 0.236400 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.702400 ms  DeleteObjects: 0.111000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005064 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.889 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.7 MB.
+System memory in use after: 89.7 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2512.
+Total: 2.365000 ms (FindLiveObjects: 0.279900 ms CreateObjectMapping: 0.044100 ms MarkObjects: 1.927500 ms  DeleteObjects: 0.112500 ms)
 

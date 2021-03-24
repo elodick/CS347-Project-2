@@ -14,11 +14,12 @@ using UnityEngine;
 public class VultureController : EnemyController
 {
     // amplitude determines the height of the wave the vulture moves on
-    public float amplitude = 0.01f;
+    public float amplitude = 1f;
     // Start is called before the first frame update
     override protected void Start()
     {
         base.Start();
+        speed = 1.0f;
     }
 
     // Update is called once per frame

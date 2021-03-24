@@ -330,9 +330,9 @@
 /define:UNITY_STANDALONE_WIN
 /define:UNITY_TEAM_LICENSE
 /define:USE_SEARCH_ENGINE_API
+Assets\Scripts\BanditBulletController.cs
 Assets\Scripts\BanditController.cs
 Assets\Scripts\Bullet.cs
-Assets\Scripts\BulletController.cs
 Assets\Scripts\EnemyController.cs
 Assets\Scripts\PlayerMovement.cs
 Assets\Scripts\SnakeController.cs

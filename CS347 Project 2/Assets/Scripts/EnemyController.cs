@@ -37,11 +37,27 @@ public class EnemyController : MonoBehaviour
     }
 
     // Behavior if hit by player
-    virtual protected void OnTriggerEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        /*if (collision.gameObject.GetComponent<*weapontype>())
-         change *weapontype to appropriate name to identify component
-         determine if both melee and ranged deliver same # of dmg
-         */
+        // behavior if hit with bullet
+        if (collision.gameObject.GetComponent<Bullet>())
+        {
+            // include any death sprites here
+            Destroy(gameObject);
+        }
+
+        // allow enemies to pass through each other
+        if (collision.gameObject.GetComponent<EnemyController>())
+        {
+            Physics2D.IgnoreCollision(collision.collider, this.GetComponent<BoxCollider2D>());
+        }
+    }
+
+    private void OnTriggerEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.GetComponent<Bullet>())
+        {
+            Destroy(gameObject);
+        }
     }
 }

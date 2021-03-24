@@ -26,9 +26,12 @@ public class BanditController : EnemyController
     // Update is called once per frame
     override protected void Update()
     {
-        Aggro();
         Movement();
-        UpdateSprite();
+        Aggro();
+    }
+
+    private void FixedUpdate()
+    {
         rateOfFire -= Time.deltaTime;
         pathingWidth -= Time.deltaTime;
     }
@@ -60,6 +63,7 @@ public class BanditController : EnemyController
     {
         if (facing == Facing.LEFT)
         {
+            spriteRenderer.flipX = false;
             var currentPosition = this.gameObject.GetComponent<Transform>().position;
             var time = Time.deltaTime;
             var offset = Vector3.left * speed * time;
@@ -69,6 +73,7 @@ public class BanditController : EnemyController
             if (pathingWidth <= 0)
             {
                 facing = Facing.RIGHT;
+                spriteRenderer.flipX = true;
                 pathingWidth = 2;
             }
         }
@@ -80,7 +85,7 @@ public class BanditController : EnemyController
 
             var newPosition = currentPosition + offset;
             this.gameObject.GetComponent<Transform>().position = newPosition;
-
+            
             if (pathingWidth <= 0)
             {
                 facing = Facing.LEFT;
@@ -89,16 +94,4 @@ public class BanditController : EnemyController
         }
     }
 
-    // Function for handling which direction the sprite is facing
-    private void UpdateSprite()
-    {
-        if (facing == Facing.RIGHT)
-        {
-            spriteRenderer.flipX = true;
-        }
-        else
-        {
-            spriteRenderer.flipX = false;
-        }
-    }
 }
