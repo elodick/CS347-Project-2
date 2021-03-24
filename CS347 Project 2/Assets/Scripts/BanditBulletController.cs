@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /* Script for controlling the bullet prefab.  Speed is how fast the bullet moves along x axis and
- * life is how long the bullet remains on screen before being destroyed */
+ * life is how long the bullet remains on screen before being destroyed 
+ * Prefab to use: banditbullet */
 
 public class BulletController : MonoBehaviour
 {
