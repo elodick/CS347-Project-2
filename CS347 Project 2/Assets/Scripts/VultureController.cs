@@ -14,12 +14,14 @@ using UnityEngine;
 public class VultureController : EnemyController
 {
     // amplitude determines the height of the wave the vulture moves on
-    public float amplitude = 1f;
+    public float amplitude = 1.75f;
+    public float sideSpeed = 0.015f;
     // Start is called before the first frame update
     override protected void Start()
     {
         base.Start();
-        speed = 1.0f;
+        speed = 0.01f;
+        aggroDist = 20.0f;
     }
 
     // Update is called once per frame
@@ -48,17 +50,17 @@ public class VultureController : EnemyController
         }
 
         // if the vulture is far enough away from the player and still in attack state, is destroyed. 
-        if (distanceToPlayer > 10 && behavior == Behavior.ATTACK)
+        /*if (distanceToPlayer > 10 && behavior == Behavior.ATTACK)
         {
             Destroy(gameObject);
-        }
+        }*/
     }
 
     // Function for the vulture's movement.  Vulture's sprite is updated to the flying vulture sprite. 
     private void Movement()
     {
         spriteRenderer.sprite = newSprite;
-        transform.position -= transform.up * Mathf.Sin(Time.time * speed) * amplitude;
-        transform.position -= transform.right * 0.01f;
+        transform.position -= transform.up * Mathf.Sin(Time.time * amplitude) * speed;
+        transform.position -= transform.right * sideSpeed;
     }
 }
