@@ -15,7 +15,7 @@ public class VultureController : EnemyController
 {
     // amplitude determines the height of the wave the vulture moves on
     public float amplitude = 4.0f;
-    public float sideSpeed = 0.004f;
+    public float sideSpeed = 0.003f;
     // Start is called before the first frame update
     override protected void Start()
     {
