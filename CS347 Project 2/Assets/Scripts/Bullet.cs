@@ -40,7 +40,7 @@ public class Bullet : MonoBehaviour
     */
     private void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.GetComponent<EnemyController>())
+        if (col.gameObject.CompareTag("Enemy"))
             Destroy(gameObject);
     }
     public void shooting(bool isFacingLeft)

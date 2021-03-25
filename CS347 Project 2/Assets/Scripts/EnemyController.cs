@@ -55,7 +55,7 @@ public class EnemyController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.GetComponent<Bullet>())
+        if (collision.gameObject.CompareTag("Bullet"))
         {
             Destroy(gameObject);
         }
