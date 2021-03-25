@@ -20,7 +20,7 @@ public class VultureController : EnemyController
     override protected void Start()
     {
         base.Start();
-        speed = 0.01f;
+        speed = 0.015f;
         aggroDist = 20.0f;
     }
 
