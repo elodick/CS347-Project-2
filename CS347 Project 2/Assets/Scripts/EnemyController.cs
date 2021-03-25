@@ -18,8 +18,8 @@ public class EnemyController : MonoBehaviour
     public int maxHealth;
     public int curHealth;
 
-    public float speed = 3.0f;
-    public float aggroDist = 5.0f;
+    public float speed;
+    public float aggroDist;
     public float cooldown = 0.5f;
     // Start is called before the first frame update
     virtual protected void Start()
