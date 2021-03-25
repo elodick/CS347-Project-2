@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 57486991}
   m_Layer: 0
   m_Name: snakecoiled
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -151,7 +151,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 57486989}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.13, y: -1.48, z: 0.38010818}
+  m_LocalPosition: {x: 6.13, y: -1.52, z: 0.38010818}
   m_LocalScale: {x: 0.23906432, y: 0.3249307, z: 1}
   m_Children: []
   m_Father: {fileID: 878607355}
@@ -290,7 +290,7 @@ GameObject:
   - component: {fileID: 105191745}
   m_Layer: 0
   m_Name: vulture-perched
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -303,7 +303,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 105191743}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.93, y: 2.3, z: 0.38010818}
+  m_LocalPosition: {x: 4.6, y: 0.98, z: 0.38010818}
   m_LocalScale: {x: 0.6579583, y: 0.828616, z: 1}
   m_Children: []
   m_Father: {fileID: 878607355}
@@ -326,10 +326,11 @@ MonoBehaviour:
   newSprite2: {fileID: 0}
   maxHealth: 0
   curHealth: 0
-  speed: 3
-  aggroDist: 5
+  speed: 0.01
+  aggroDist: 15
   cooldown: 0.5
-  amplitude: 0.01
+  amplitude: 4
+  sideSpeed: 0.003
 --- !u!61 &105191746
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -504,7 +505,7 @@ GameObject:
   - component: {fileID: 875548431}
   m_Layer: 0
   m_Name: banditgun
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -732,7 +733,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1093531509}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.5494, y: 3.1869, z: 0}
+  m_LocalPosition: {x: -2.48, y: 3.2, z: 0}
   m_LocalScale: {x: 6.2982564, y: 1.7179734, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -808,11 +809,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8361913594304356873, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.63
+      value: -20.82
       objectReference: {fileID: 0}
     - target: {fileID: 8361913594304356873, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.95
+      value: -1.04
       objectReference: {fileID: 0}
     - target: {fileID: 8361913594304356873, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
       propertyPath: m_LocalPosition.z
