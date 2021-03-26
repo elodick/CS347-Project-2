@@ -12,7 +12,8 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer spriteRenderer;
 
     //Direct player Variables
-    private int Ammo;
+    [SerializeField]
+    public int Ammo;
 
     [SerializeField]
     public bool canJump; 
@@ -55,7 +56,7 @@ public class PlayerMovement : MonoBehaviour
         var leftIsPressed = Input.GetKey(KeyCode.LeftArrow);
         var SpaceIsPressed = Input.GetKeyDown(KeyCode.Space);
         var jumpIsPressed = Input.GetKeyDown(KeyCode.UpArrow);
-        
+        var Melee = Input.GetKeyDown(KeyCode.X);
         
         //Called when Right Key is Pressed
         if (rightIsPressed)
@@ -76,23 +77,32 @@ public class PlayerMovement : MonoBehaviour
                 playerShoot();
               }
         }
+
         if(jumpIsPressed && canJump == true)
         {
             jump();
         }
+        if(Melee)
+        {
+            MeleeAttack();
+        }
          
    }
+
+    private void MeleeAttack()
+    {
+        //Code to make melee happen 
+
+
+    }
+
+    //Physis to make jump
     private void jump()
     {
         gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, JumpSpeed), ForceMode2D.Impulse);
-        /*
-        var currentPosition = this.gameObject.GetComponent<Transform>().position;
-        var time = UnityEngine.Time.deltaTime;
-        var offset = Vector3.up*(JumpSpeed * time); // this line changes from left to right
-        var newPosition = currentPosition + offset;
-        this.gameObject.GetComponent<Transform>().position = newPosition;
-        */
+       
     }
+    //Bullet is fired left or right and ammo reduced
     private void playerShoot()
     {
         Ammo--;
@@ -112,12 +122,13 @@ public class PlayerMovement : MonoBehaviour
     //function to move right
     private void MoveRight()
     {
-        // new position = currentPosition + (speed*time) 
+       
         var currentPosition = this.gameObject.GetComponent<Transform>().position;
         var time = UnityEngine.Time.deltaTime;
         var offset = Vector3.right * MoveSpeed * time;
         var newPosition = currentPosition + offset;
         this.gameObject.GetComponent<Transform>().position = newPosition;
+
         //graphics 
         if (facingLeft == true)
         {
@@ -125,6 +136,7 @@ public class PlayerMovement : MonoBehaviour
         }
         facingLeft = false;
     }
+
     //function to move left
     private void MoveLeft()
     {
