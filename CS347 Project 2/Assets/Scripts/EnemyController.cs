@@ -41,14 +41,14 @@ public class EnemyController : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         // behavior if hit with bullet
-        if (collision.gameObject.GetComponent<Bullet>())
+        if (collision.gameObject.CompareTag("Bullet"))
         {
             // include any death sprites here
             Destroy(gameObject);
         }
 
         // allow enemies to pass through each other
-        if (collision.gameObject.GetComponent<EnemyController>())
+        if (collision.gameObject.CompareTag("Enemy"))
         {
             Physics2D.IgnoreCollision(collision.collider, this.GetComponent<BoxCollider2D>());
         }

@@ -10,6 +10,10 @@ public class PlayerMovement : MonoBehaviour
     **********************************************/
    
     private SpriteRenderer spriteRenderer;
+    public Sprite mainSprite;
+    public Sprite hitSprite;
+    public bool isHit;
+    public float hitRecovery = 0.5f;
 
     //Direct player Variables
     [SerializeField]
@@ -86,9 +90,25 @@ public class PlayerMovement : MonoBehaviour
         {
             MeleeAttack();
         }
-         
+        if (isHit)
+        {
+            if (hitRecovery >= 0)
+            {
+                spriteRenderer.sprite = hitSprite;
+                spriteRenderer.color = new Color(1, 0, 0, 1);
+            }
+            else
+            {
+                spriteRenderer.sprite = mainSprite;
+                spriteRenderer.color = new Color(1, 1, 1, 1);
+            }
+        }
    }
 
+    private void FixedUpdate()
+    {
+        hitRecovery -= Time.deltaTime;
+    }
     private void MeleeAttack()
     {
         //Code to make melee happen 
@@ -153,5 +173,15 @@ public class PlayerMovement : MonoBehaviour
             spriteRenderer.flipX = true;
          }
     facingLeft = true;
-    }  
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.GetComponent<BanditBulletController>())
+        {
+            Health--;
+            isHit = true;
+            hitRecovery = 0.5f;
+        }
+    }
 }

@@ -37,6 +37,9 @@ public class Heart_Manage : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Health = Player.GetComponent<PlayerMovement>().Health;
+        Hearts = Health;
+
         for (int i = 0; i < HeartList.Length; i++)
         {
 

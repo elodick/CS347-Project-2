@@ -13,7 +13,7 @@ using UnityEngine;
 public class SnakeController : EnemyController
 {
     
-    public int attackRange = 2;
+    public float attackRange = 1.5f;
     public float rateOfAttack;
     // Start is called before the first frame update
     override protected void Start()
@@ -68,11 +68,6 @@ public class SnakeController : EnemyController
             }
             behavior = Behavior.ATTACK;
         }
-
-        if (behavior == Behavior.ATTACK)
-        {
-            //this.gameObject.GetComponent<Transform>().position = this.gameObject.GetComponent<Transform>().position;
-        }
     }
 
     // Movement for the snake, change to appropriate sprite and have snake "chase" player. 
@@ -81,7 +76,7 @@ public class SnakeController : EnemyController
         spriteRenderer.sprite = newSprite;
         Vector2 oldLocation = transform.position;
         Vector2 newLocation = oldLocation;
-        if (Vector2.Distance(transform.position, playerTransform.position) >= 2)
+        if (Vector2.Distance(transform.position, playerTransform.position) >= attackRange)
         {
             transform.position = Vector2.MoveTowards(transform.position, playerTransform.position, speed * Time.deltaTime);
             newLocation = transform.position;

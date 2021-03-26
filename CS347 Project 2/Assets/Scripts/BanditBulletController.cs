@@ -15,12 +15,16 @@ public class BanditBulletController : MonoBehaviour
      * determine what happens when player is struck by a bullet */
     private void OnTriggerEnter2D(Collider2D collision)
     {
-       
+        
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+        }
     }
     // Start is called before the first frame update
     void Start()
@@ -48,6 +52,4 @@ public class BanditBulletController : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
-
 }

@@ -512,7 +512,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 142051875}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.01, y: -1.09, z: 0}
+  m_LocalPosition: {x: 0.01, y: -0.9, z: 0}
   m_LocalScale: {x: 2.26, y: 0.09, z: 1}
   m_Children: []
   m_Father: {fileID: 1207357472}
@@ -531,7 +531,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.028291397, y: -0.025372922}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -542,7 +542,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.4058712, y: 1.0507458}
   m_EdgeRadius: 0
 --- !u!114 &142051878
 MonoBehaviour:
@@ -1658,7 +1658,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8361913594304356884, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
       propertyPath: m_Size.y
-      value: 1.86
+      value: 1.773225
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361913594304356884, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.00999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361913594304356884, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.056612432
       objectReference: {fileID: 0}
     - target: {fileID: 8361913594304356885, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
       propertyPath: Health
@@ -1672,9 +1680,29 @@ PrefabInstance:
       propertyPath: MoveSpeed
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 8361913594304356885, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
+      propertyPath: hitSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 22a71058d8247e84fbb3fe5ae48562f6, type: 3}
+    - target: {fileID: 8361913594304356885, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
+      propertyPath: mainSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4bfa1f9e3c2b7994691e00af405802a9, type: 3}
+    - target: {fileID: 8361913594304356885, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
+      propertyPath: hitRecovery
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8361913594304356886, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361913594320205270, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361913594393131144, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 49d5df27809c34941a33825f62ec02f6, type: 3}
