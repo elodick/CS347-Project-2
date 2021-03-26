@@ -90,6 +90,10 @@ public class PlayerMovement : MonoBehaviour
         {
             MeleeAttack();
         }
+
+        /* if player is in the 'isHit' = true state, and still recovering from hit (hitRecovery >= 0),
+         * then change the player's sprite to hitSprite and paint it red.  Else, revert the
+         * player's sprite back to Main sprite with normal colors */
         if (isHit)
         {
             if (hitRecovery >= 0)
@@ -107,6 +111,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        // hitRecovery is constantly being decremented, allows for the isHit conditions to stay on screen long enough to be seen
         hitRecovery -= Time.deltaTime;
     }
     private void MeleeAttack()
@@ -177,6 +182,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        /*If player collides with enemy, or with the enemy bandit's bullet, decrement player's
+         * health by 1, set the isHit flag to true, and set the hitRecovery to 0.5f */
         if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.GetComponent<BanditBulletController>())
         {
             Health--;

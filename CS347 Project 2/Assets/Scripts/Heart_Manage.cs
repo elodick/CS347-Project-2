@@ -37,6 +37,7 @@ public class Heart_Manage : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Continuously update player's current health status
         Health = Player.GetComponent<PlayerMovement>().Health;
         Hearts = Health;
 
