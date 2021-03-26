@@ -12,21 +12,23 @@ using UnityEngine;
  */
 public class SnakeController : EnemyController
 {
+    
     public int attackRange = 2;
+    public float rateOfAttack;
     // Start is called before the first frame update
     override protected void Start()
     {
         base.Start();
         speed = 3f;
         aggroDist = 8f;
-        cooldown = 5.0f;
+        cooldown = 4.0f;
     }
 
     // Update is called once per frame
     override protected void Update()
     {
         AIUpdate();
-        cooldown -= Time.deltaTime;
+        rateOfAttack -= Time.deltaTime;
     }
 
     private void AIUpdate()
@@ -55,6 +57,15 @@ public class SnakeController : EnemyController
         if (distanceToPlayer <= attackRange)
         {
             spriteRenderer.sprite = newSprite2;
+          
+            if (rateOfAttack <= 2)
+            {
+                spriteRenderer.sprite = newSprite3;
+            }
+            if (rateOfAttack <= 0)
+            {
+                rateOfAttack = cooldown;
+            }
             behavior = Behavior.ATTACK;
         }
 
@@ -76,4 +87,5 @@ public class SnakeController : EnemyController
             newLocation = transform.position;
         }
     }
+
 }

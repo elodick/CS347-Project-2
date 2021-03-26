@@ -15,12 +15,13 @@ public class EnemyController : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     public Sprite newSprite;
     public Sprite newSprite2;
+    public Sprite newSprite3;
     public int maxHealth;
     public int curHealth;
 
     public float speed;
     public float aggroDist;
-    public float cooldown = 0.5f;
+    public float cooldown = 1.75f;
     // Start is called before the first frame update
     virtual protected void Start()
     {
@@ -48,6 +49,10 @@ public class EnemyController : MonoBehaviour
 
         // allow enemies to pass through each other
         if (collision.gameObject.GetComponent<EnemyController>())
+        {
+            Physics2D.IgnoreCollision(collision.collider, this.GetComponent<BoxCollider2D>());
+        }
+        if (collision.gameObject.GetComponent<BanditBulletController>())
         {
             Physics2D.IgnoreCollision(collision.collider, this.GetComponent<BoxCollider2D>());
         }
