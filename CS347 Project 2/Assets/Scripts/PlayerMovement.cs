@@ -14,12 +14,17 @@ public class PlayerMovement : MonoBehaviour
     //Direct player Variables
     private int Ammo;
 
-    private int JumpsR; 
+    [SerializeField]
+    public bool canJump; 
+
     [SerializeField]
     float MoveSpeed = 2f;
 
     [SerializeField]
-    float JumpSpeed = 100f;
+    float JumpSpeed;
+
+    [SerializeField]
+    public int Health;
 
     [SerializeField]
     GameObject Bullet;  //Bullet prefab load
@@ -37,9 +42,9 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         Ammo = 10; 
-       // bulletRef = Resources.Load("Bullet");
         facingLeft = false;
         spriteRenderer = this.gameObject.GetComponent<SpriteRenderer>();
+        canJump = false; 
     }
 
 
@@ -50,7 +55,7 @@ public class PlayerMovement : MonoBehaviour
         var leftIsPressed = Input.GetKey(KeyCode.LeftArrow);
         var SpaceIsPressed = Input.GetKeyDown(KeyCode.Space);
         var jumpIsPressed = Input.GetKeyDown(KeyCode.UpArrow);
-        //var CharacterGun = position2d.position.x;
+        
         
         //Called when Right Key is Pressed
         if (rightIsPressed)
@@ -71,7 +76,7 @@ public class PlayerMovement : MonoBehaviour
                 playerShoot();
               }
         }
-        if(jumpIsPressed)
+        if(jumpIsPressed && canJump == true)
         {
             jump();
         }
@@ -79,11 +84,14 @@ public class PlayerMovement : MonoBehaviour
    }
     private void jump()
     {
+        gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, JumpSpeed), ForceMode2D.Impulse);
+        /*
         var currentPosition = this.gameObject.GetComponent<Transform>().position;
         var time = UnityEngine.Time.deltaTime;
         var offset = Vector3.up*(JumpSpeed * time); // this line changes from left to right
         var newPosition = currentPosition + offset;
         this.gameObject.GetComponent<Transform>().position = newPosition;
+        */
     }
     private void playerShoot()
     {
