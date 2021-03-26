@@ -170,14 +170,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 57486994}
-  newSprite: {fileID: 21300000, guid: 2673e85e3782cc549ad2a7890058130c, type: 3}
-  newSprite2: {fileID: 21300000, guid: 9107d475dd1d6e54b873d6d9fd22efa2, type: 3}
+  newSprite: {fileID: -3946499141775193120, guid: 11dd4c255b9b190449906ceee67a2765, type: 3}
+  newSprite2: {fileID: 8964828684589300045, guid: 11dd4c255b9b190449906ceee67a2765, type: 3}
+  newSprite3: {fileID: 4479720658561634729, guid: 11dd4c255b9b190449906ceee67a2765, type: 3}
   maxHealth: 0
   curHealth: 0
   speed: 3
   aggroDist: 5
   cooldown: 0.5
   attackRange: 2
+  rateOfAttack: 0
 --- !u!61 &57486992
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -195,8 +197,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 6, y: 6}
-    newSize: {x: 6, y: 6}
+    oldSize: {x: 4.73, y: 3.26}
+    newSize: {x: 4.73, y: 3.26}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -265,12 +267,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9e6cf48d7952ae4418bbb6c1e069f781, type: 3}
+  m_Sprite: {fileID: -8688392260014441854, guid: 11dd4c255b9b190449906ceee67a2765, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6, y: 6}
+  m_Size: {x: 4.73, y: 3.26}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -324,6 +326,7 @@ MonoBehaviour:
   spriteRenderer: {fileID: 105191747}
   newSprite: {fileID: 21300000, guid: 3e663d9bb3d942e4fb0b2db6ce5b8d30, type: 3}
   newSprite2: {fileID: 0}
+  newSprite3: {fileID: 0}
   maxHealth: 0
   curHealth: 0
   speed: 0.01
@@ -539,6 +542,7 @@ MonoBehaviour:
   spriteRenderer: {fileID: 875548430}
   newSprite: {fileID: 0}
   newSprite2: {fileID: 0}
+  newSprite3: {fileID: 0}
   maxHealth: 0
   curHealth: 0
   speed: 3
@@ -648,7 +652,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 878607354}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.1609375, y: -0.19991773, z: -0.38010818}
+  m_LocalPosition: {x: 3.1609375, y: -0.19991773, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 875548428}

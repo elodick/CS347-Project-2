@@ -15,6 +15,7 @@ public class EnemyController : MonoBehaviour
     public SpriteRenderer spriteRenderer;
     public Sprite newSprite;
     public Sprite newSprite2;
+    public Sprite newSprite3;
     public int maxHealth;
     public int curHealth;
 
