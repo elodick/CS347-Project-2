@@ -13,17 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-03-26T10:49:05.300-05:00
-  initializedAtString: 2021-03-26T10:49:05.289-05:00
+  lastUpdatedAtString: 2021-03-27T14:10:28.270-05:00
+  initializedAtString: 2021-03-27T13:08:04.828-05:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/master
-    tracking: '[None]'
-  - name: origin/Player
     tracking: '[None]'
   remotes:
   - name: origin
@@ -48,21 +44,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - master
-      - Player
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/elodick/CS347-Project-2.git
-        trackingBranch: 
-      - name: master
-        remote:
-          name: origin
-          url: https://github.com/elodick/CS347-Project-2.git
-        trackingBranch: 
-      - name: Player
         remote:
           name: origin
           url: https://github.com/elodick/CS347-Project-2.git

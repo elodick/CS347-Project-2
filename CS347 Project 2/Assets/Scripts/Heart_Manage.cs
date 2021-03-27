@@ -53,7 +53,7 @@ public class Heart_Manage : MonoBehaviour
                 HeartList[i].sprite = Empty;
             }
 
-       
+       /*
             if (i < Hearts)
             {
                 HeartList[i].enabled = true;
@@ -62,6 +62,7 @@ public class Heart_Manage : MonoBehaviour
             {
                 HeartList[i].enabled = false;
             }
+            */
         }
 
     }

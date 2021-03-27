@@ -23,7 +23,7 @@ public class PlayerMovement : MonoBehaviour
     public bool canJump; 
 
     [SerializeField]
-    float MoveSpeed = 2f;
+    float MoveSpeed ;
 
     [SerializeField]
     float JumpSpeed;
@@ -35,11 +35,20 @@ public class PlayerMovement : MonoBehaviour
     GameObject Bullet;  //Bullet prefab load
 
     [SerializeField]
+    GameObject Attack;  //melee attack load
+
+    [SerializeField]
    Transform B_PlacementL; //Placement of bullet firing if facing left
 
     [SerializeField]
     Transform B_PlacementR; //Placement of bullet firing if facing right
-    
+
+    [SerializeField]
+    Transform M_PlacementL; //Placement of swipe if facing left
+
+    [SerializeField]
+    Transform M_PlacementR; //Placement of swipe if facing right
+
     //Direction player is facing
     public bool facingLeft;
 
@@ -116,6 +125,17 @@ public class PlayerMovement : MonoBehaviour
     }
     private void MeleeAttack()
     {
+        GameObject S = Instantiate(Attack);
+        //This call to change slash direction is not working 
+       // S.GetComponent<Attack>().attacking(facingLeft);
+        if (facingLeft == true)
+        {
+            S.transform.position = M_PlacementL.transform.position;
+        }
+        else
+        {
+            S.transform.position = M_PlacementR.transform.position;
+        }
         //Code to make melee happen 
 
 
