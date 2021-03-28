@@ -8,3 +8,4 @@ CS347 Project 2/Library/ArtifactDB
 CS347 Project 2/Library/gfu/cache/branches.yaml
 CS347 Project 2/Library/gfu/cache/gitlocks.yaml
 CS347 Project 2/Library/gfu/cache/gitlog.yaml
+*.yaml
