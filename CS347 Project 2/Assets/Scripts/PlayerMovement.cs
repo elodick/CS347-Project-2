@@ -10,10 +10,13 @@ public class PlayerMovement : MonoBehaviour
     **********************************************/
    
     private SpriteRenderer spriteRenderer;
+    public Animator animator;
     public Sprite mainSprite;
     public Sprite hitSprite;
     public bool isHit;
     public float hitRecovery = 0.5f;
+    
+    
 
     //Direct player Variables
     [SerializeField]
@@ -56,12 +59,13 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    var rightIsPressed = Input.GetKey(KeyCode.RightArrow);
+        var rightIsPressed = Input.GetKey(KeyCode.RightArrow);
         var leftIsPressed = Input.GetKey(KeyCode.LeftArrow);
         var SpaceIsPressed = Input.GetKeyDown(KeyCode.Space);
         var jumpIsPressed = Input.GetKeyDown(KeyCode.UpArrow);
         var Melee = Input.GetKeyDown(KeyCode.X);
-        
+
+           
         //Called when Right Key is Pressed
         if (rightIsPressed)
         {
@@ -154,6 +158,8 @@ public class PlayerMovement : MonoBehaviour
         var newPosition = currentPosition + offset;
         this.gameObject.GetComponent<Transform>().position = newPosition;
 
+        animator.SetFloat("Speed", Mathf.Abs(offset));
+
         //graphics 
         if (facingLeft == true)
         {
@@ -171,6 +177,8 @@ public class PlayerMovement : MonoBehaviour
         var offset = Vector3.left * MoveSpeed * time; // this line changes from left to right
         var newPosition = currentPosition + offset;
         this.gameObject.GetComponent<Transform>().position = newPosition;
+
+        animator.SetFloat("Speed", Mathf.Abs(offset));
 
         //graphics 
         if (facingLeft == false)
