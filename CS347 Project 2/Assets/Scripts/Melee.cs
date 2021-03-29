@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Melee : MonoBehaviour
+public class Melee : PlayerMovement
 {
     [SerializeField]
     public float Duration;
@@ -23,17 +23,5 @@ public class Melee : MonoBehaviour
         remainingDuration -= Time.deltaTime;
         if (remainingDuration <= 0.0f)
             Destroy(gameObject);
-    }
-    //Change the direction of slash 
-    public void attacking(bool isFacingLeft)
-    {
-        if (isFacingLeft == true)
-        {
-            SlashSprite.flipX = true;
-        }
-        else
-        {
-            SlashSprite.flipX = false;
-        }
     }
 }

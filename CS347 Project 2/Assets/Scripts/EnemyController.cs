@@ -47,6 +47,11 @@ public class EnemyController : MonoBehaviour
             Destroy(gameObject);
         }
 
+        if (collision.gameObject.CompareTag("Player_attack"))
+        {
+            Destroy(gameObject);
+        }
+
         // allow enemies to pass through each other
         if (collision.gameObject.CompareTag("Enemy"))
         {

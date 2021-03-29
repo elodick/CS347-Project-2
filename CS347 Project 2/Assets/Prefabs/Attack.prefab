@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2567265209029646891}
   m_Layer: 0
   m_Name: Attack
-  m_TagString: Untagged
+  m_TagString: Player_attack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -97,6 +97,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8505ede5f16df4499a23c9641ba5d73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 0}
+  mainSprite: {fileID: 0}
+  hitSprite: {fileID: 0}
+  isHit: 0
+  hitRecovery: 0.5
+  Ammo: 0
+  canJump: 0
+  MoveSpeed: 0
+  JumpSpeed: 0
+  Health: 0
+  Bullet: {fileID: 0}
+  Attack: {fileID: 0}
+  B_PlacementL: {fileID: 0}
+  B_PlacementR: {fileID: 0}
+  M_PlacementL: {fileID: 0}
+  M_PlacementR: {fileID: 0}
+  facingLeft: 0
   Duration: 0.1
 --- !u!61 &7321748269280034547
 BoxCollider2D:
@@ -108,7 +125,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.15, y: 0}
