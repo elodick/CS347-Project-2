@@ -143,6 +143,7 @@ public class PlayerMovement : MonoBehaviour
         if (facingLeft == true)
         {
             S.transform.position = M_PlacementL.transform.position;
+            S.transform.Rotate(new Vector3(0, 180));
         }
         else
         {
@@ -174,6 +175,7 @@ public class PlayerMovement : MonoBehaviour
         if (facingLeft == true)
         {
             b.transform.position = B_PlacementL.transform.position;
+            b.transform.Rotate(new Vector3(0, 180));
         }
         else
         {
@@ -228,4 +230,5 @@ public class PlayerMovement : MonoBehaviour
             hitRecovery = 0.5f;
         }
     }
+
 }
