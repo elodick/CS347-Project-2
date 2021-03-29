@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-29T16:56:40.330-05:00
-  initializedAtString: 2021-03-29T16:29:10.884-05:00
+  lastUpdatedAtString: 2021-03-29T17:05:34.960-05:00
+  initializedAtString: 2021-03-29T17:04:25.869-05:00
   entries:
   - path: CS347 Project 2\.vs\CS347 Project 2\v16\.suo
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
@@ -23,38 +23,10 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Assets\Scripts\VultureController.cs
+  - path: CS347 Project 2\Assets\Scripts\PlayerMovement.cs
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Assets\Scripts\VultureController.cs
-    projectPath: Assets\Scripts\VultureController.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\globalgamemanagers
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\globalgamemanagers
-    projectPath: Build\CS347 Project 2_Data\CS347 Project 2_Data\globalgamemanagers
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\level0
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\level0
-    projectPath: Build\CS347 Project 2_Data\CS347 Project 2_Data\level0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\Managed\Assembly-CSharp.dll
-    projectPath: Build\CS347 Project 2_Data\CS347 Project 2_Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\sharedassets0.assets
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Build\CS347 Project 2_Data\CS347 Project 2_Data\sharedassets0.assets
-    projectPath: Build\CS347 Project 2_Data\CS347 Project 2_Data\sharedassets0.assets
+      Project 2\Assets\Scripts\PlayerMovement.cs
+    projectPath: Assets\Scripts\PlayerMovement.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -70,12 +42,26 @@ MonoBehaviour:
       Project 2\Library\Artifacts\0a\0a00a1be9768be4bac46cc2481b100c8
     projectPath: Library\Artifacts\0a\0a00a1be9768be4bac46cc2481b100c8
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\0f\0f84987e3d134178ea0d71df5447bec3
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Library\Artifacts\0f\0f84987e3d134178ea0d71df5447bec3
+    projectPath: Library\Artifacts\0f\0f84987e3d134178ea0d71df5447bec3
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\15\15276294fee42b6a22f2cd8620d32481
+  - path: CS347 Project 2\Library\Artifacts\1b\1b31b9fde798160b83d1623945cf50d2
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\15\15276294fee42b6a22f2cd8620d32481
-    projectPath: Library\Artifacts\15\15276294fee42b6a22f2cd8620d32481
+      Project 2\Library\Artifacts\1b\1b31b9fde798160b83d1623945cf50d2
+    projectPath: Library\Artifacts\1b\1b31b9fde798160b83d1623945cf50d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\21\2163bd420b290266152f2b0fa9dde013
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Library\Artifacts\21\2163bd420b290266152f2b0fa9dde013
+    projectPath: Library\Artifacts\21\2163bd420b290266152f2b0fa9dde013
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -84,36 +70,43 @@ MonoBehaviour:
       Project 2\Library\Artifacts\35\35e70a3da0af6e8f496cd06f45a0cd4a
     projectPath: Library\Artifacts\35\35e70a3da0af6e8f496cd06f45a0cd4a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\5a\5adb256355e212df4baea7ac5f9fd112
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Library\Artifacts\5a\5adb256355e212df4baea7ac5f9fd112
     projectPath: Library\Artifacts\5a\5adb256355e212df4baea7ac5f9fd112
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\73\734ba3c99f630b8150cc3e0bbf7f7d7b
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Library\Artifacts\73\734ba3c99f630b8150cc3e0bbf7f7d7b
     projectPath: Library\Artifacts\73\734ba3c99f630b8150cc3e0bbf7f7d7b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\9f\9fc93587e77891f2928a957e951e1ce3
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Library\Artifacts\9f\9fc93587e77891f2928a957e951e1ce3
+    projectPath: Library\Artifacts\9f\9fc93587e77891f2928a957e951e1ce3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\c4\c432941572c272575f4581c85c52f03f
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Library\Artifacts\c4\c432941572c272575f4581c85c52f03f
     projectPath: Library\Artifacts\c4\c432941572c272575f4581c85c52f03f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\f2\f2fdbbdf5cbd3fec0d5ba95ad67e48b2
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Library\Artifacts\f2\f2fdbbdf5cbd3fec0d5ba95ad67e48b2
     projectPath: Library\Artifacts\f2\f2fdbbdf5cbd3fec0d5ba95ad67e48b2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Library\gfu\cache\gitlocks.yaml
@@ -128,38 +121,17 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Library\LastBuild.buildreport
+  - path: CS347 Project 2\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\LastBuild.buildreport
-    projectPath: Library\LastBuild.buildreport
+      Project 2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Library\PlayerDataCache\Win\Data\globalgamemanagers
+  - path: CS347 Project 2\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\PlayerDataCache\Win\Data\globalgamemanagers
-    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Library\PlayerDataCache\Win\Data\level0
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\PlayerDataCache\Win\Data\level0
-    projectPath: Library\PlayerDataCache\Win\Data\level0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
-    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Library\PlayerDataCache\Win\Data\sharedassets0.assets
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\PlayerDataCache\Win\Data\sharedassets0.assets
-    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+      Project 2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -212,269 +184,633 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CS347 Project 2\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe12.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe13.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe13.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe13.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe14.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe14.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe14.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe15.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: CS347 Project 2\Temp\Assembly-CSharp.dll.hash
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Temp\Assembly-CSharp.dll.hash
     projectPath: Temp\Assembly-CSharp.dll.hash
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: CS347 Project 2\Temp\CompilationLog.txt
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
       Project 2\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
     originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-018726a3b04eecb4a99abf112e7d9d4a
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-018726a3b04eecb4a99abf112e7d9d4a
+    projectPath: Temp\UnityTempFile-018726a3b04eecb4a99abf112e7d9d4a
+    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Temp\ManagedSymbols\Assembly-CSharp.pdb
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-06b1028d5986abc41879f5bb16053f5f
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\ManagedSymbols\Assembly-CSharp.pdb
-    projectPath: Temp\ManagedSymbols\Assembly-CSharp.pdb
+      Project 2\Temp\UnityTempFile-06b1028d5986abc41879f5bb16053f5f
+    projectPath: Temp\UnityTempFile-06b1028d5986abc41879f5bb16053f5f
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Temp\UnityTempFile-04f0a4a8c023722499c708d5ae1fe8dc
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-0797bdf575b34f9439defb5a9e67f468
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-04f0a4a8c023722499c708d5ae1fe8dc
-    projectPath: Temp\UnityTempFile-04f0a4a8c023722499c708d5ae1fe8dc
+      Project 2\Temp\UnityTempFile-0797bdf575b34f9439defb5a9e67f468
+    projectPath: Temp\UnityTempFile-0797bdf575b34f9439defb5a9e67f468
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-07b1781594dd7394ea62adce746b2a8f
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-07b1781594dd7394ea62adce746b2a8f
+    projectPath: Temp\UnityTempFile-07b1781594dd7394ea62adce746b2a8f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-147fecc7ced9e234f8808f9fd55d3bb0
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-147fecc7ced9e234f8808f9fd55d3bb0
+    projectPath: Temp\UnityTempFile-147fecc7ced9e234f8808f9fd55d3bb0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-16926f22c3aac2f4196cc8c60357fb01
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-16926f22c3aac2f4196cc8c60357fb01
+    projectPath: Temp\UnityTempFile-16926f22c3aac2f4196cc8c60357fb01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-180149d9150d0094abfbe61cd9f64378
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-180149d9150d0094abfbe61cd9f64378
+    projectPath: Temp\UnityTempFile-180149d9150d0094abfbe61cd9f64378
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-2050a4d166cf94946b1c6f9d502a73f7
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-2050a4d166cf94946b1c6f9d502a73f7
+    projectPath: Temp\UnityTempFile-2050a4d166cf94946b1c6f9d502a73f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-222d6039a3bd6924ca16eb232f530557
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-222d6039a3bd6924ca16eb232f530557
+    projectPath: Temp\UnityTempFile-222d6039a3bd6924ca16eb232f530557
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-152b55c906cb0d144b8b465007d688cd
+  - path: CS347 Project 2\Temp\UnityTempFile-24b81670f65661c4184bc0a3bab71e0a
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-152b55c906cb0d144b8b465007d688cd
-    projectPath: Temp\UnityTempFile-152b55c906cb0d144b8b465007d688cd
+      Project 2\Temp\UnityTempFile-24b81670f65661c4184bc0a3bab71e0a
+    projectPath: Temp\UnityTempFile-24b81670f65661c4184bc0a3bab71e0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-2697a72038095424bacdae8fa0e49964
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-2697a72038095424bacdae8fa0e49964
+    projectPath: Temp\UnityTempFile-2697a72038095424bacdae8fa0e49964
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-2b1bb8bc65c2a03449a448895f71787b
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-2b1bb8bc65c2a03449a448895f71787b
+    projectPath: Temp\UnityTempFile-2b1bb8bc65c2a03449a448895f71787b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-2dd3a81719e92ce42b384eb9f5e3517a
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-2dd3a81719e92ce42b384eb9f5e3517a
+    projectPath: Temp\UnityTempFile-2dd3a81719e92ce42b384eb9f5e3517a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-2de99c15f3e7d73418388a4a29e39331
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-2de99c15f3e7d73418388a4a29e39331
+    projectPath: Temp\UnityTempFile-2de99c15f3e7d73418388a4a29e39331
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-2fb3a1f2a609cec4fb4b204ffc57c32c
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-2fb3a1f2a609cec4fb4b204ffc57c32c
+    projectPath: Temp\UnityTempFile-2fb3a1f2a609cec4fb4b204ffc57c32c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-32fdd5347bb302742bf7d60a244c9cb1
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-32fdd5347bb302742bf7d60a244c9cb1
+    projectPath: Temp\UnityTempFile-32fdd5347bb302742bf7d60a244c9cb1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-39409ffcebbdadf4889357e38161152c
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-39409ffcebbdadf4889357e38161152c
+    projectPath: Temp\UnityTempFile-39409ffcebbdadf4889357e38161152c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-3a430ea0bd35de343b16b3ee987ce1bd
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-3a430ea0bd35de343b16b3ee987ce1bd
+    projectPath: Temp\UnityTempFile-3a430ea0bd35de343b16b3ee987ce1bd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-3cc6de047820b554d9ea2fe49c57a5a6
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-3cc6de047820b554d9ea2fe49c57a5a6
+    projectPath: Temp\UnityTempFile-3cc6de047820b554d9ea2fe49c57a5a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-3dfc681c980c4b949be03794be48028a
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-3dfc681c980c4b949be03794be48028a
+    projectPath: Temp\UnityTempFile-3dfc681c980c4b949be03794be48028a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-3e00ff6ea3951e843aed527899a2e80b
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-3e00ff6ea3951e843aed527899a2e80b
+    projectPath: Temp\UnityTempFile-3e00ff6ea3951e843aed527899a2e80b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-43cf88c7200de5a40bfa6d118c752ff9
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-43cf88c7200de5a40bfa6d118c752ff9
+    projectPath: Temp\UnityTempFile-43cf88c7200de5a40bfa6d118c752ff9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-467cbb152535e3046b57bfc9e7908071
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-467cbb152535e3046b57bfc9e7908071
+    projectPath: Temp\UnityTempFile-467cbb152535e3046b57bfc9e7908071
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-4c8273f64e765944d80e5196f1eb35fe
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-4c8273f64e765944d80e5196f1eb35fe
+    projectPath: Temp\UnityTempFile-4c8273f64e765944d80e5196f1eb35fe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-52fe32e8428245240b113ba8ebf6bce5
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-52fe32e8428245240b113ba8ebf6bce5
+    projectPath: Temp\UnityTempFile-52fe32e8428245240b113ba8ebf6bce5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-55d289b7f11684a4e9d201e55b8cf5f6
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-55d289b7f11684a4e9d201e55b8cf5f6
+    projectPath: Temp\UnityTempFile-55d289b7f11684a4e9d201e55b8cf5f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-576b5e5fc8e30ee4e984a31e2602e7dc
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-576b5e5fc8e30ee4e984a31e2602e7dc
+    projectPath: Temp\UnityTempFile-576b5e5fc8e30ee4e984a31e2602e7dc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-58e7dac778ca52048b16292bd34b2343
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-58e7dac778ca52048b16292bd34b2343
+    projectPath: Temp\UnityTempFile-58e7dac778ca52048b16292bd34b2343
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-5f78a8e6fd702294883595361a6def91
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-5f78a8e6fd702294883595361a6def91
+    projectPath: Temp\UnityTempFile-5f78a8e6fd702294883595361a6def91
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-6027c037ad5121d4d9a13ef0bbfc2c6b
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-6027c037ad5121d4d9a13ef0bbfc2c6b
+    projectPath: Temp\UnityTempFile-6027c037ad5121d4d9a13ef0bbfc2c6b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-60ee45c398db3a445af7bb82fdcc99fd
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-60ee45c398db3a445af7bb82fdcc99fd
+    projectPath: Temp\UnityTempFile-60ee45c398db3a445af7bb82fdcc99fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-666df4a3c611a7245b6718cd7303d421
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-666df4a3c611a7245b6718cd7303d421
+    projectPath: Temp\UnityTempFile-666df4a3c611a7245b6718cd7303d421
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-689bee383dad96244a1d87ed1251b021
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-689bee383dad96244a1d87ed1251b021
+    projectPath: Temp\UnityTempFile-689bee383dad96244a1d87ed1251b021
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-6ac14abc838c269458a882c10b0f3206
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-6ac14abc838c269458a882c10b0f3206
+    projectPath: Temp\UnityTempFile-6ac14abc838c269458a882c10b0f3206
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-73bd507b00fb7e644a08e3243e73546b
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-73bd507b00fb7e644a08e3243e73546b
+    projectPath: Temp\UnityTempFile-73bd507b00fb7e644a08e3243e73546b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-73d1fe80ecf387943b6b9b9e787c38ea
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-73d1fe80ecf387943b6b9b9e787c38ea
+    projectPath: Temp\UnityTempFile-73d1fe80ecf387943b6b9b9e787c38ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-7571676d24a002f428a3d52cc9307a8d
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-7571676d24a002f428a3d52cc9307a8d
+    projectPath: Temp\UnityTempFile-7571676d24a002f428a3d52cc9307a8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-7c87d2b161e1068469de7aa83e2f7d87
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-7c87d2b161e1068469de7aa83e2f7d87
+    projectPath: Temp\UnityTempFile-7c87d2b161e1068469de7aa83e2f7d87
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-7fd3ea11c1e9acc448bfea3b3f39fdd8
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-7fd3ea11c1e9acc448bfea3b3f39fdd8
+    projectPath: Temp\UnityTempFile-7fd3ea11c1e9acc448bfea3b3f39fdd8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-802535d1d4ec1fb41bb39ea0675bc858
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-802535d1d4ec1fb41bb39ea0675bc858
+    projectPath: Temp\UnityTempFile-802535d1d4ec1fb41bb39ea0675bc858
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-81ee43bbdc7a85c4d9022e8249e19972
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-81ee43bbdc7a85c4d9022e8249e19972
+    projectPath: Temp\UnityTempFile-81ee43bbdc7a85c4d9022e8249e19972
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-832fead9584a0644eb446f884fe3dc60
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-832fead9584a0644eb446f884fe3dc60
+    projectPath: Temp\UnityTempFile-832fead9584a0644eb446f884fe3dc60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-87172356f3ace4f469b2f4ad742f0e38
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-87172356f3ace4f469b2f4ad742f0e38
+    projectPath: Temp\UnityTempFile-87172356f3ace4f469b2f4ad742f0e38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-8734fc548bb794f46934a2ab74132e3a
+    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
+      Project 2\Temp\UnityTempFile-8734fc548bb794f46934a2ab74132e3a
+    projectPath: Temp\UnityTempFile-8734fc548bb794f46934a2ab74132e3a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-17008f92606e57345bd8df198c9120ff
+  - path: CS347 Project 2\Temp\UnityTempFile-8abbdf8745006d44bbfaefbec5d0bbdf
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-17008f92606e57345bd8df198c9120ff
-    projectPath: Temp\UnityTempFile-17008f92606e57345bd8df198c9120ff
+      Project 2\Temp\UnityTempFile-8abbdf8745006d44bbfaefbec5d0bbdf
+    projectPath: Temp\UnityTempFile-8abbdf8745006d44bbfaefbec5d0bbdf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-2e7a27a5b01a3194b929960dc0e10ce3
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-8bff8e6ca31969a49bc65409508422f4
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-2e7a27a5b01a3194b929960dc0e10ce3
-    projectPath: Temp\UnityTempFile-2e7a27a5b01a3194b929960dc0e10ce3
+      Project 2\Temp\UnityTempFile-8bff8e6ca31969a49bc65409508422f4
+    projectPath: Temp\UnityTempFile-8bff8e6ca31969a49bc65409508422f4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-2e8630e269945004db108b9bc125d36a
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-8d3df4f31107ce04e8d528dbe70bc36a
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-2e8630e269945004db108b9bc125d36a
-    projectPath: Temp\UnityTempFile-2e8630e269945004db108b9bc125d36a
+      Project 2\Temp\UnityTempFile-8d3df4f31107ce04e8d528dbe70bc36a
+    projectPath: Temp\UnityTempFile-8d3df4f31107ce04e8d528dbe70bc36a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-44daaed9b83576e4f90cdfff7ea35f64
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-9156ff718f5fdd448a8df494692e1c0b
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-44daaed9b83576e4f90cdfff7ea35f64
-    projectPath: Temp\UnityTempFile-44daaed9b83576e4f90cdfff7ea35f64
+      Project 2\Temp\UnityTempFile-9156ff718f5fdd448a8df494692e1c0b
+    projectPath: Temp\UnityTempFile-9156ff718f5fdd448a8df494692e1c0b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-4972cc7f3fd1e9e4c9cbfc5abeef40d8
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-9329bad5fb328404da303141a6142de5
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-4972cc7f3fd1e9e4c9cbfc5abeef40d8
-    projectPath: Temp\UnityTempFile-4972cc7f3fd1e9e4c9cbfc5abeef40d8
+      Project 2\Temp\UnityTempFile-9329bad5fb328404da303141a6142de5
+    projectPath: Temp\UnityTempFile-9329bad5fb328404da303141a6142de5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-49dc2318221b5af45b4f8097096b4acc
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-9362a0990d4ef634da0c6d2746168c2f
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-49dc2318221b5af45b4f8097096b4acc
-    projectPath: Temp\UnityTempFile-49dc2318221b5af45b4f8097096b4acc
+      Project 2\Temp\UnityTempFile-9362a0990d4ef634da0c6d2746168c2f
+    projectPath: Temp\UnityTempFile-9362a0990d4ef634da0c6d2746168c2f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-4db20e8ab59acb040a0de9a181e2105b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-95cb6cdff6e98a34e9c8053e36dc0304
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-4db20e8ab59acb040a0de9a181e2105b
-    projectPath: Temp\UnityTempFile-4db20e8ab59acb040a0de9a181e2105b
+      Project 2\Temp\UnityTempFile-95cb6cdff6e98a34e9c8053e36dc0304
+    projectPath: Temp\UnityTempFile-95cb6cdff6e98a34e9c8053e36dc0304
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-4e630f77d513f344c8b183a0c528005e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-97f741f434c6af34bb983707fd586042
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-4e630f77d513f344c8b183a0c528005e
-    projectPath: Temp\UnityTempFile-4e630f77d513f344c8b183a0c528005e
+      Project 2\Temp\UnityTempFile-97f741f434c6af34bb983707fd586042
+    projectPath: Temp\UnityTempFile-97f741f434c6af34bb983707fd586042
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-584b5e2de310d9b4d95ab6705c21229e
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-9c3e0a37bf91a66418cd9bf3c5fab594
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-584b5e2de310d9b4d95ab6705c21229e
-    projectPath: Temp\UnityTempFile-584b5e2de310d9b4d95ab6705c21229e
+      Project 2\Temp\UnityTempFile-9c3e0a37bf91a66418cd9bf3c5fab594
+    projectPath: Temp\UnityTempFile-9c3e0a37bf91a66418cd9bf3c5fab594
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-64865b46a95fb2a4ab1e275918242db7
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-b2ba7164939a48449a74b577bbb0b5af
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-64865b46a95fb2a4ab1e275918242db7
-    projectPath: Temp\UnityTempFile-64865b46a95fb2a4ab1e275918242db7
+      Project 2\Temp\UnityTempFile-b2ba7164939a48449a74b577bbb0b5af
+    projectPath: Temp\UnityTempFile-b2ba7164939a48449a74b577bbb0b5af
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-64d96dad1e1882b41a6b054f82c93788
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-b4768d6614275f64b98c94f0f3a0ea7d
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-64d96dad1e1882b41a6b054f82c93788
-    projectPath: Temp\UnityTempFile-64d96dad1e1882b41a6b054f82c93788
+      Project 2\Temp\UnityTempFile-b4768d6614275f64b98c94f0f3a0ea7d
+    projectPath: Temp\UnityTempFile-b4768d6614275f64b98c94f0f3a0ea7d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-74cfbc454c0501d41bc0fe0b53f48c96
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-bb7fa4c68b9ea084b8e0b5b7664eb320
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-74cfbc454c0501d41bc0fe0b53f48c96
-    projectPath: Temp\UnityTempFile-74cfbc454c0501d41bc0fe0b53f48c96
+      Project 2\Temp\UnityTempFile-bb7fa4c68b9ea084b8e0b5b7664eb320
+    projectPath: Temp\UnityTempFile-bb7fa4c68b9ea084b8e0b5b7664eb320
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-78b25ebc61d206242a40aacd7a08de1f
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-c0dd2938f9d0c9d47833dbf381a15e73
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-78b25ebc61d206242a40aacd7a08de1f
-    projectPath: Temp\UnityTempFile-78b25ebc61d206242a40aacd7a08de1f
+      Project 2\Temp\UnityTempFile-c0dd2938f9d0c9d47833dbf381a15e73
+    projectPath: Temp\UnityTempFile-c0dd2938f9d0c9d47833dbf381a15e73
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-7c492013f4bc4fa4692cead2f5200655
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-c3f053d1754f71745b11482fa807d0c4
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-7c492013f4bc4fa4692cead2f5200655
-    projectPath: Temp\UnityTempFile-7c492013f4bc4fa4692cead2f5200655
+      Project 2\Temp\UnityTempFile-c3f053d1754f71745b11482fa807d0c4
+    projectPath: Temp\UnityTempFile-c3f053d1754f71745b11482fa807d0c4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-8e6056f537f1a06408ed2ef704fd55b3
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-cde7419d706a11f4392a11dc177dcc9f
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-8e6056f537f1a06408ed2ef704fd55b3
-    projectPath: Temp\UnityTempFile-8e6056f537f1a06408ed2ef704fd55b3
+      Project 2\Temp\UnityTempFile-cde7419d706a11f4392a11dc177dcc9f
+    projectPath: Temp\UnityTempFile-cde7419d706a11f4392a11dc177dcc9f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-8e9c3edf7e65810449c93e447ddef7a7
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-d5281f012d19a534db407860b73c1b2f
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-8e9c3edf7e65810449c93e447ddef7a7
-    projectPath: Temp\UnityTempFile-8e9c3edf7e65810449c93e447ddef7a7
+      Project 2\Temp\UnityTempFile-d5281f012d19a534db407860b73c1b2f
+    projectPath: Temp\UnityTempFile-d5281f012d19a534db407860b73c1b2f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-9097fedafbea1e246808975fdbf15cca
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-dec53c3bc3cf46345a513e4a8dccf0cb
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-9097fedafbea1e246808975fdbf15cca
-    projectPath: Temp\UnityTempFile-9097fedafbea1e246808975fdbf15cca
+      Project 2\Temp\UnityTempFile-dec53c3bc3cf46345a513e4a8dccf0cb
+    projectPath: Temp\UnityTempFile-dec53c3bc3cf46345a513e4a8dccf0cb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-93b1b20e7b79d9b488b35eb6c6d2a1d6
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-decccbd15b4fde346b83bc494ce90d23
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-93b1b20e7b79d9b488b35eb6c6d2a1d6
-    projectPath: Temp\UnityTempFile-93b1b20e7b79d9b488b35eb6c6d2a1d6
+      Project 2\Temp\UnityTempFile-decccbd15b4fde346b83bc494ce90d23
+    projectPath: Temp\UnityTempFile-decccbd15b4fde346b83bc494ce90d23
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-964cd8bbd89757549a8baa2883ac11c7
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-e518bc1597fbbb343b98fa5788537cc9
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-964cd8bbd89757549a8baa2883ac11c7
-    projectPath: Temp\UnityTempFile-964cd8bbd89757549a8baa2883ac11c7
+      Project 2\Temp\UnityTempFile-e518bc1597fbbb343b98fa5788537cc9
+    projectPath: Temp\UnityTempFile-e518bc1597fbbb343b98fa5788537cc9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-9880c6b484d2eb94cb8df59843751388
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-e6a1472abb69d4e468ea853be67939e1
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-9880c6b484d2eb94cb8df59843751388
-    projectPath: Temp\UnityTempFile-9880c6b484d2eb94cb8df59843751388
+      Project 2\Temp\UnityTempFile-e6a1472abb69d4e468ea853be67939e1
+    projectPath: Temp\UnityTempFile-e6a1472abb69d4e468ea853be67939e1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-9f44b57b300e1bf41bba8578c59022b7
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-e748bb9a492e20b49866114fe8714449
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-9f44b57b300e1bf41bba8578c59022b7
-    projectPath: Temp\UnityTempFile-9f44b57b300e1bf41bba8578c59022b7
+      Project 2\Temp\UnityTempFile-e748bb9a492e20b49866114fe8714449
+    projectPath: Temp\UnityTempFile-e748bb9a492e20b49866114fe8714449
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-a52be248a87882f4b901edb9330f5b37
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-e91ff796e017a88469694afbf953a619
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-a52be248a87882f4b901edb9330f5b37
-    projectPath: Temp\UnityTempFile-a52be248a87882f4b901edb9330f5b37
+      Project 2\Temp\UnityTempFile-e91ff796e017a88469694afbf953a619
+    projectPath: Temp\UnityTempFile-e91ff796e017a88469694afbf953a619
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-c02007b5ccdbdd24bb2287c1643f4aa0
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-ed08cc771304a294fbb86c80960cf501
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-c02007b5ccdbdd24bb2287c1643f4aa0
-    projectPath: Temp\UnityTempFile-c02007b5ccdbdd24bb2287c1643f4aa0
+      Project 2\Temp\UnityTempFile-ed08cc771304a294fbb86c80960cf501
+    projectPath: Temp\UnityTempFile-ed08cc771304a294fbb86c80960cf501
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-c0e43197ccf810649ac2f710f5ad8f31
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-ee2f40f2d149dbc49988b5ce619bd56f
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-c0e43197ccf810649ac2f710f5ad8f31
-    projectPath: Temp\UnityTempFile-c0e43197ccf810649ac2f710f5ad8f31
+      Project 2\Temp\UnityTempFile-ee2f40f2d149dbc49988b5ce619bd56f
+    projectPath: Temp\UnityTempFile-ee2f40f2d149dbc49988b5ce619bd56f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-cb1e31042bd464547beee73112c9bdab
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-fad02cdce1e5c1445b2cce6b83288f5c
     fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-cb1e31042bd464547beee73112c9bdab
-    projectPath: Temp\UnityTempFile-cb1e31042bd464547beee73112c9bdab
+      Project 2\Temp\UnityTempFile-fad02cdce1e5c1445b2cce6b83288f5c
+    projectPath: Temp\UnityTempFile-fad02cdce1e5c1445b2cce6b83288f5c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-d726cae8c99f8f64fb484d8f2e113136
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-d726cae8c99f8f64fb484d8f2e113136
-    projectPath: Temp\UnityTempFile-d726cae8c99f8f64fb484d8f2e113136
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-e0527623b267de84abc0b94bc848850a
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-e0527623b267de84abc0b94bc848850a
-    projectPath: Temp\UnityTempFile-e0527623b267de84abc0b94bc848850a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-ebd5176c32b2e6f4398056ef0350f1a3
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-ebd5176c32b2e6f4398056ef0350f1a3
-    projectPath: Temp\UnityTempFile-ebd5176c32b2e6f4398056ef0350f1a3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-ee0c3536e0b58c34596a1e39e71677f7
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-ee0c3536e0b58c34596a1e39e71677f7
-    projectPath: Temp\UnityTempFile-ee0c3536e0b58c34596a1e39e71677f7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-f7709149213ccd943860f944e55bf8f8
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-f7709149213ccd943860f944e55bf8f8
-    projectPath: Temp\UnityTempFile-f7709149213ccd943860f944e55bf8f8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-fc87dde7d67a014418c75672c16df1d1
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-fc87dde7d67a014418c75672c16df1d1
-    projectPath: Temp\UnityTempFile-fc87dde7d67a014418c75672c16df1d1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Temp\UnityTempFile-ff3aeeeace8fb7a4a808c47459f2e607
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-ff3aeeeace8fb7a4a808c47459f2e607
-    projectPath: Temp\UnityTempFile-ff3aeeeace8fb7a4a808c47459f2e607
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5

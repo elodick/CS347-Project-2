@@ -139,6 +139,10 @@ public class PlayerMovement : MonoBehaviour
     {
         // hitRecovery is constantly being decremented, allows for the isHit conditions to stay on screen long enough to be seen
         hitRecovery -= Time.deltaTime;
+        if (Health == 0)
+        {
+            SceneManager.LoadScene("SampleScene");
+        }
     }
     private void MeleeAttack()
     {
@@ -155,8 +159,6 @@ public class PlayerMovement : MonoBehaviour
             S.transform.position = M_PlacementR.transform.position;
         }
         //Code to make melee happen 
-
-
     }
 
     //Physis to make jump
