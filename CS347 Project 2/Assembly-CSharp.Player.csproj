@@ -56,28 +56,28 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Assets\Scenes\Assets\_External\2d-techdemos\GridInformation\Scripts\GridInformation.cs" />
+    <Compile Include="Assets\_External\2d-techdemos\GridInformation\Scripts\GridInformation.cs" />
     <Compile Include="Assets\Scripts\Object_Damage.cs" />
     <Compile Include="Assets\Scripts\Player_Jump.cs" />
     <Compile Include="Assets\Scripts\SnakeController.cs" />
     <Compile Include="Assets\Scripts\BanditController.cs" />
     <Compile Include="Assets\Scripts\BanditBulletController.cs" />
-    <Compile Include="Assets\Assets\Scenes\Assets\_External\2d-techdemos\Rule Tiles\Scripts\RuleOverrideTile.cs" />
+    <Compile Include="Assets\_External\2d-techdemos\Rule Tiles\Scripts\RuleOverrideTile.cs" />
     <Compile Include="Assets\Scripts\EnemyController.cs" />
-    <Compile Include="Assets\Assets\Scenes\Assets\_External\2d-techdemos\Rule Tiles\Scripts\IsometricRuleTile.cs" />
-    <Compile Include="Assets\Assets\Scenes\Assets\_External\2d-techdemos\Rule Tiles\Scripts\HexagonalRuleTile.cs" />
+    <Compile Include="Assets\_External\2d-techdemos\Rule Tiles\Scripts\IsometricRuleTile.cs" />
+    <Compile Include="Assets\_External\2d-techdemos\Rule Tiles\Scripts\HexagonalRuleTile.cs" />
     <Compile Include="Assets\Scripts\AmmoUI.cs" />
     <Compile Include="Assets\Scripts\VultureController.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Assets\Scenes\Assets\_External\2d-techdemos\Rule Tiles\Scripts\RuleTile.cs" />
+    <Compile Include="Assets\_External\2d-techdemos\Rule Tiles\Scripts\RuleTile.cs" />
     <Compile Include="Assets\Scripts\Melee.cs" />
-    <Compile Include="Assets\Assets\Character\char_scripts\CharController.cs" />
-    <Compile Include="Assets\Scripts\Change Scene.cs" />
+    <Compile Include="Assets\Character\char_scripts\CharController.cs" />
+    <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\Heart_Manage.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\Assets\Scenes\Assets\_External\2d-techdemos\Rule Tiles\Scripts\ScriptTemplates\NewCustomRuleTile.cs.txt" />
+     <None Include="Assets\_External\2d-techdemos\Rule Tiles\Scripts\ScriptTemplates\NewCustomRuleTile.cs.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\Variations\mono\Managed\UnityEngine.dll</HintPath>
     </Reference>
