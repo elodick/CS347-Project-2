@@ -13,405 +13,667 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-29T16:02:25.073-05:00
-  initializedAtString: 2021-03-29T14:11:43.680-05:00
+  lastUpdatedAtString: 2021-03-29T16:20:06.875-05:00
+  initializedAtString: 2021-03-29T16:06:27.265-05:00
   entries:
-  - path: CS347 Project 2\.vs\CS347 Project 2\v16\.suo
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\.vs\CS347 Project 2\v16\.suo
-    projectPath: .vs\CS347 Project 2\v16\.suo
+  - path: CS347 Project 2\Assembly-CSharp.csproj
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Assets\Prefabs\banditBullet.prefab
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Assets\Prefabs\banditBullet.prefab
-    projectPath: Assets\Prefabs\banditBullet.prefab
+  - path: CS347 Project 2\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Assets\Scenes\SampleScene.unity
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Assets\Scripts\PlayerMovement.cs
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Assets\Scripts\PlayerMovement.cs
-    projectPath: Assets\Scripts\PlayerMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\Assets\Sprites\banditbullet.png
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Assets\Sprites\banditbullet.png
-    projectPath: Assets\Sprites\banditbullet.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Assets\Sprites\banditbullet.png.meta
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Assets\Sprites\banditbullet.png.meta
-    projectPath: Assets\Sprites\banditbullet.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Assets\Sprites\Bullet 1.png
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Assets\Sprites\Bullet 1.png
-    projectPath: Assets\Sprites\Bullet 1.png
+  - path: CS347 Project 2\CS347 Project 2.sln
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\CS347
+      Project 2.sln
+    projectPath: CS347 Project 2.sln
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\ArtifactDB
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\ArtifactDB
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CS347 Project 2\Library\Artifacts\00\0012291caba00add2556cd351d973c7d
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\00\0012291caba00add2556cd351d973c7d
+    projectPath: Library\Artifacts\00\0012291caba00add2556cd351d973c7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\07\07ddc40fa4d4a7f26e2c720937ef00f7
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\07\07ddc40fa4d4a7f26e2c720937ef00f7
+    projectPath: Library\Artifacts\07\07ddc40fa4d4a7f26e2c720937ef00f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\08\0885c0609e849b74b05c55c751560018
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\08\0885c0609e849b74b05c55c751560018
+    projectPath: Library\Artifacts\08\0885c0609e849b74b05c55c751560018
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\0d\0d57a35bc8499bb8d78c7c10550c7e1a
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\0d\0d57a35bc8499bb8d78c7c10550c7e1a
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\0d\0d57a35bc8499bb8d78c7c10550c7e1a
     projectPath: Library\Artifacts\0d\0d57a35bc8499bb8d78c7c10550c7e1a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\19\192312549ba8c5d097dd23b7b4ef1ff4
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\19\192312549ba8c5d097dd23b7b4ef1ff4
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\19\192312549ba8c5d097dd23b7b4ef1ff4
     projectPath: Library\Artifacts\19\192312549ba8c5d097dd23b7b4ef1ff4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\29\29af915bec21f638c0cd5214aa09a105
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\29\29af915bec21f638c0cd5214aa09a105
-    projectPath: Library\Artifacts\29\29af915bec21f638c0cd5214aa09a105
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\1e\1e16376e7790169505b59044e86379a3
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\1e\1e16376e7790169505b59044e86379a3
+    projectPath: Library\Artifacts\1e\1e16376e7790169505b59044e86379a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\21\2163bd420b290266152f2b0fa9dde013
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\21\2163bd420b290266152f2b0fa9dde013
+    projectPath: Library\Artifacts\21\2163bd420b290266152f2b0fa9dde013
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\28\281cba884b424bc60aa96f00b14c067f
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\28\281cba884b424bc60aa96f00b14c067f
+    projectPath: Library\Artifacts\28\281cba884b424bc60aa96f00b14c067f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\29\2914e463f3f9d3a66379303016868e7f
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\29\2914e463f3f9d3a66379303016868e7f
+    projectPath: Library\Artifacts\29\2914e463f3f9d3a66379303016868e7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\29\2998f0f8aceededf5578c9a63624d8eb
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\29\2998f0f8aceededf5578c9a63624d8eb
+    projectPath: Library\Artifacts\29\2998f0f8aceededf5578c9a63624d8eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\2b\2bd91e6b2814ca2696433dc33c3e6ea5
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\2b\2bd91e6b2814ca2696433dc33c3e6ea5
+    projectPath: Library\Artifacts\2b\2bd91e6b2814ca2696433dc33c3e6ea5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\36\36661b2d5ca9dc53652655aecaf5089c
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\36\36661b2d5ca9dc53652655aecaf5089c
+    projectPath: Library\Artifacts\36\36661b2d5ca9dc53652655aecaf5089c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\37\37a49718b781449252b8988c848177c0
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\37\37a49718b781449252b8988c848177c0
+    projectPath: Library\Artifacts\37\37a49718b781449252b8988c848177c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\3b\3b3328f65d87b5a0f702bc8e71d6124d
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\3b\3b3328f65d87b5a0f702bc8e71d6124d
+    projectPath: Library\Artifacts\3b\3b3328f65d87b5a0f702bc8e71d6124d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\3c\3c065069b40b36ccbef2780b83cc385e
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\3c\3c065069b40b36ccbef2780b83cc385e
+    projectPath: Library\Artifacts\3c\3c065069b40b36ccbef2780b83cc385e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\3d\3d3ec3ad0e1c8bbdae2699da22bc89f7
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\3d\3d3ec3ad0e1c8bbdae2699da22bc89f7
+    projectPath: Library\Artifacts\3d\3d3ec3ad0e1c8bbdae2699da22bc89f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\3e\3e98c92438763674f0b5bf0229b49c45
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\3e\3e98c92438763674f0b5bf0229b49c45
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\3e\3e98c92438763674f0b5bf0229b49c45
     projectPath: Library\Artifacts\3e\3e98c92438763674f0b5bf0229b49c45
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\4b\4bd0a9a1e39d3108d1fd0b4368e0613b
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\4b\4bd0a9a1e39d3108d1fd0b4368e0613b
-    projectPath: Library\Artifacts\4b\4bd0a9a1e39d3108d1fd0b4368e0613b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\3f\3f2260d2e0e19f5a31fdf91ec71ff99a
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\3f\3f2260d2e0e19f5a31fdf91ec71ff99a
+    projectPath: Library\Artifacts\3f\3f2260d2e0e19f5a31fdf91ec71ff99a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\40\4061fddb7321ed0b98d478f7aedaaabd
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\40\4061fddb7321ed0b98d478f7aedaaabd
+    projectPath: Library\Artifacts\40\4061fddb7321ed0b98d478f7aedaaabd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\4c\4c0844464358169101e24f3dabd79510
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\4c\4c0844464358169101e24f3dabd79510
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\4c\4c0844464358169101e24f3dabd79510
     projectPath: Library\Artifacts\4c\4c0844464358169101e24f3dabd79510
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\52\52b4b36b9e749ab88b7c38163a72e72c
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\52\52b4b36b9e749ab88b7c38163a72e72c
+    projectPath: Library\Artifacts\52\52b4b36b9e749ab88b7c38163a72e72c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\55\5521cf68775fa80823fdb3c41de1bf35
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\55\5521cf68775fa80823fdb3c41de1bf35
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\55\5521cf68775fa80823fdb3c41de1bf35
     projectPath: Library\Artifacts\55\5521cf68775fa80823fdb3c41de1bf35
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\56\5620811ab46732ae5b5c2525b23fbc0e
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\56\5620811ab46732ae5b5c2525b23fbc0e
-    projectPath: Library\Artifacts\56\5620811ab46732ae5b5c2525b23fbc0e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\56\567de16b7d96a40d1b55d1c2c4b988d2
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\56\567de16b7d96a40d1b55d1c2c4b988d2
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\56\567de16b7d96a40d1b55d1c2c4b988d2
     projectPath: Library\Artifacts\56\567de16b7d96a40d1b55d1c2c4b988d2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\5a\5ac350e21b1e98bdf64b33fb633e1c47
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\5a\5ac350e21b1e98bdf64b33fb633e1c47
+    projectPath: Library\Artifacts\5a\5ac350e21b1e98bdf64b33fb633e1c47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\5c\5c42660a86cfce437be51600dfdb3c07
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\5c\5c42660a86cfce437be51600dfdb3c07
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\5c\5c42660a86cfce437be51600dfdb3c07
     projectPath: Library\Artifacts\5c\5c42660a86cfce437be51600dfdb3c07
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\60\60486d222ae6d4ec04add9fa0d43a9ea
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\60\60486d222ae6d4ec04add9fa0d43a9ea
+    projectPath: Library\Artifacts\60\60486d222ae6d4ec04add9fa0d43a9ea
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: CS347 Project 2\Library\Artifacts\65\65b286884f2feaa52b1697da557ccae1
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\65\65b286884f2feaa52b1697da557ccae1
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\65\65b286884f2feaa52b1697da557ccae1
     projectPath: Library\Artifacts\65\65b286884f2feaa52b1697da557ccae1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\6c\6c515617fa386a7ef1150daa339f1601
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\6c\6c515617fa386a7ef1150daa339f1601
+    projectPath: Library\Artifacts\6c\6c515617fa386a7ef1150daa339f1601
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\6c\6cf3d42a5451998fad1920c729b617c0
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\6c\6cf3d42a5451998fad1920c729b617c0
+    projectPath: Library\Artifacts\6c\6cf3d42a5451998fad1920c729b617c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\6e\6e15f7e50b3235edc44b847921b76ea6
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\6e\6e15f7e50b3235edc44b847921b76ea6
+    projectPath: Library\Artifacts\6e\6e15f7e50b3235edc44b847921b76ea6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\6f\6fda093db01c6dfad1a33a69c59e66e4
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\6f\6fda093db01c6dfad1a33a69c59e66e4
+    projectPath: Library\Artifacts\6f\6fda093db01c6dfad1a33a69c59e66e4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: CS347 Project 2\Library\Artifacts\76\76aed9f46d96c8b6aec8663f7a778b8b
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\76\76aed9f46d96c8b6aec8663f7a778b8b
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\76\76aed9f46d96c8b6aec8663f7a778b8b
     projectPath: Library\Artifacts\76\76aed9f46d96c8b6aec8663f7a778b8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\76\76d4d5a7376321222263202cebf75f44
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\76\76d4d5a7376321222263202cebf75f44
+    projectPath: Library\Artifacts\76\76d4d5a7376321222263202cebf75f44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\7f\7f2fb9ff0ca73ab57753ed8117635a6e
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\7f\7f2fb9ff0ca73ab57753ed8117635a6e
+    projectPath: Library\Artifacts\7f\7f2fb9ff0ca73ab57753ed8117635a6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\7f\7fa93d3b3b0759143b4cc1c795cd41cb
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\7f\7fa93d3b3b0759143b4cc1c795cd41cb
+    projectPath: Library\Artifacts\7f\7fa93d3b3b0759143b4cc1c795cd41cb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: CS347 Project 2\Library\Artifacts\86\8691909c3533c1265d8fcf503bf6c075
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\86\8691909c3533c1265d8fcf503bf6c075
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\86\8691909c3533c1265d8fcf503bf6c075
     projectPath: Library\Artifacts\86\8691909c3533c1265d8fcf503bf6c075
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\87\8713f140fe59fd242ea15a7161414a1d
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\87\8713f140fe59fd242ea15a7161414a1d
-    projectPath: Library\Artifacts\87\8713f140fe59fd242ea15a7161414a1d
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\88\88885ced0e49fabd9c7c4c7f39340958
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\88\88885ced0e49fabd9c7c4c7f39340958
+    projectPath: Library\Artifacts\88\88885ced0e49fabd9c7c4c7f39340958
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\90\90b310b861fb53842822ea0e4efa2284
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\90\90b310b861fb53842822ea0e4efa2284
+    projectPath: Library\Artifacts\90\90b310b861fb53842822ea0e4efa2284
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\95\953039cfaec556cecbaf1e80e8761ca1
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\95\953039cfaec556cecbaf1e80e8761ca1
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\95\953039cfaec556cecbaf1e80e8761ca1
     projectPath: Library\Artifacts\95\953039cfaec556cecbaf1e80e8761ca1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\95\953131225bcb782a801bcccdc1e1b41a
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\95\953131225bcb782a801bcccdc1e1b41a
+    projectPath: Library\Artifacts\95\953131225bcb782a801bcccdc1e1b41a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\9d\9d1feac016888d0cec865302f168d4a2
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\9d\9d1feac016888d0cec865302f168d4a2
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\9d\9d1feac016888d0cec865302f168d4a2
     projectPath: Library\Artifacts\9d\9d1feac016888d0cec865302f168d4a2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\a0\a0d0eb730faa10d0f83d29e254d3266c
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\a0\a0d0eb730faa10d0f83d29e254d3266c
+    projectPath: Library\Artifacts\a0\a0d0eb730faa10d0f83d29e254d3266c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\a4\a4b6e346f4a9cecec23ba45a6d80b821
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\a4\a4b6e346f4a9cecec23ba45a6d80b821
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\a4\a4b6e346f4a9cecec23ba45a6d80b821
     projectPath: Library\Artifacts\a4\a4b6e346f4a9cecec23ba45a6d80b821
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\a6\a631232e053beb32c83921ddf7dd65eb
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\a6\a631232e053beb32c83921ddf7dd65eb
+    projectPath: Library\Artifacts\a6\a631232e053beb32c83921ddf7dd65eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\a7\a7a9a6dd8b0e2b8a928ca447af006119
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\a7\a7a9a6dd8b0e2b8a928ca447af006119
+    projectPath: Library\Artifacts\a7\a7a9a6dd8b0e2b8a928ca447af006119
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\ae\aeabc9e96e7eb4edf8cc9f92e4eb2202
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\ae\aeabc9e96e7eb4edf8cc9f92e4eb2202
+    projectPath: Library\Artifacts\ae\aeabc9e96e7eb4edf8cc9f92e4eb2202
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\a7\a7a9a6dd8b0e2b8a928ca447af006119
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\a7\a7a9a6dd8b0e2b8a928ca447af006119
-    projectPath: Library\Artifacts\a7\a7a9a6dd8b0e2b8a928ca447af006119
+  - path: CS347 Project 2\Library\Artifacts\af\affefac1ab696448a6e4bd2bacfb6319
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\af\affefac1ab696448a6e4bd2bacfb6319
+    projectPath: Library\Artifacts\af\affefac1ab696448a6e4bd2bacfb6319
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: CS347 Project 2\Library\Artifacts\b1\b177ea7f96cb68a225ac9d5c4963bfb2
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\b1\b177ea7f96cb68a225ac9d5c4963bfb2
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\b1\b177ea7f96cb68a225ac9d5c4963bfb2
     projectPath: Library\Artifacts\b1\b177ea7f96cb68a225ac9d5c4963bfb2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\b3\b31d1a1d0c57dfd53c547b2fe247e744
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\b3\b31d1a1d0c57dfd53c547b2fe247e744
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\b3\b31d1a1d0c57dfd53c547b2fe247e744
     projectPath: Library\Artifacts\b3\b31d1a1d0c57dfd53c547b2fe247e744
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\b7\b79c722d040fef59d1a1e9949885b075
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\b7\b79c722d040fef59d1a1e9949885b075
-    projectPath: Library\Artifacts\b7\b79c722d040fef59d1a1e9949885b075
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\b9\b9079676f0e908f7f50422d0266e3775
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\b9\b9079676f0e908f7f50422d0266e3775
+    projectPath: Library\Artifacts\b9\b9079676f0e908f7f50422d0266e3775
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\bc\bcf2f6c9a6dda07d2d0bc9dbc0f32c77
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\bc\bcf2f6c9a6dda07d2d0bc9dbc0f32c77
-    projectPath: Library\Artifacts\bc\bcf2f6c9a6dda07d2d0bc9dbc0f32c77
+  - path: CS347 Project 2\Library\Artifacts\ba\bae7a2936ae8f30c7a18dd4cd976e78f
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\ba\bae7a2936ae8f30c7a18dd4cd976e78f
+    projectPath: Library\Artifacts\ba\bae7a2936ae8f30c7a18dd4cd976e78f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\bb\bb997fd594a66c9c04717ba5630706f1
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\bb\bb997fd594a66c9c04717ba5630706f1
+    projectPath: Library\Artifacts\bb\bb997fd594a66c9c04717ba5630706f1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\bc\bc61d278e69b9d028bac30531f61b06c
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\bc\bc61d278e69b9d028bac30531f61b06c
+    projectPath: Library\Artifacts\bc\bc61d278e69b9d028bac30531f61b06c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\bd\bd30a9d0f1bd6af1fb3cc55127a1e6d8
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\bd\bd30a9d0f1bd6af1fb3cc55127a1e6d8
+    projectPath: Library\Artifacts\bd\bd30a9d0f1bd6af1fb3cc55127a1e6d8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\c0\c0a6da43f7a829a8899c2fdd27ff7b39
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\c0\c0a6da43f7a829a8899c2fdd27ff7b39
+    projectPath: Library\Artifacts\c0\c0a6da43f7a829a8899c2fdd27ff7b39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\c1\c1a37600b459f64e2e8ab83976313c2c
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\c1\c1a37600b459f64e2e8ab83976313c2c
+    projectPath: Library\Artifacts\c1\c1a37600b459f64e2e8ab83976313c2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\c6\c67f39cbc314eff4ba5c2bfd81c0c9f1
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\c6\c67f39cbc314eff4ba5c2bfd81c0c9f1
+    projectPath: Library\Artifacts\c6\c67f39cbc314eff4ba5c2bfd81c0c9f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\c9\c9dc99e1612db85f9953837fc175baea
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\c9\c9dc99e1612db85f9953837fc175baea
+    projectPath: Library\Artifacts\c9\c9dc99e1612db85f9953837fc175baea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\d0\d0a7c05d7fd9b3887f8ff13a6e415065
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\d0\d0a7c05d7fd9b3887f8ff13a6e415065
+    projectPath: Library\Artifacts\d0\d0a7c05d7fd9b3887f8ff13a6e415065
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\d2\d22664399df35746c4630d85a7a54231
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\d2\d22664399df35746c4630d85a7a54231
+    projectPath: Library\Artifacts\d2\d22664399df35746c4630d85a7a54231
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\d4\d4a8c582679a3c63f918d4d104e6ad5c
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\d4\d4a8c582679a3c63f918d4d104e6ad5c
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\d4\d4a8c582679a3c63f918d4d104e6ad5c
     projectPath: Library\Artifacts\d4\d4a8c582679a3c63f918d4d104e6ad5c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\d4\d4f0971c2536b9c62d7648ea12a438c0
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\d4\d4f0971c2536b9c62d7648ea12a438c0
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\d4\d4f0971c2536b9c62d7648ea12a438c0
     projectPath: Library\Artifacts\d4\d4f0971c2536b9c62d7648ea12a438c0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\d5\d519098a08bd6686253ef5d48a353c7b
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\d5\d519098a08bd6686253ef5d48a353c7b
+    projectPath: Library\Artifacts\d5\d519098a08bd6686253ef5d48a353c7b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\db\db982fe0ec7fb562304386c24dc762c0
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\db\db982fe0ec7fb562304386c24dc762c0
+    projectPath: Library\Artifacts\db\db982fe0ec7fb562304386c24dc762c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\Artifacts\dd\ddd4a2102b1855ba1c6bb5e5420f8330
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\dd\ddd4a2102b1855ba1c6bb5e5420f8330
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\dd\ddd4a2102b1855ba1c6bb5e5420f8330
     projectPath: Library\Artifacts\dd\ddd4a2102b1855ba1c6bb5e5420f8330
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\e0\e036df93b6e9deae2c7e65f28934f14c
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\e0\e036df93b6e9deae2c7e65f28934f14c
+    projectPath: Library\Artifacts\e0\e036df93b6e9deae2c7e65f28934f14c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\e4\e4ce01d4a36121d7aa4f5ade6698d7fd
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\e4\e4ce01d4a36121d7aa4f5ade6698d7fd
+    projectPath: Library\Artifacts\e4\e4ce01d4a36121d7aa4f5ade6698d7fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\e7\e7496b07e9179c444726fb5d5e767255
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\e7\e7496b07e9179c444726fb5d5e767255
+    projectPath: Library\Artifacts\e7\e7496b07e9179c444726fb5d5e767255
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: CS347 Project 2\Library\Artifacts\ef\ef1463dffa5e9bb119892676cbaec032
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\ef\ef1463dffa5e9bb119892676cbaec032
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\ef\ef1463dffa5e9bb119892676cbaec032
     projectPath: Library\Artifacts\ef\ef1463dffa5e9bb119892676cbaec032
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\f1\f1c8d6c4084f1291186848090e85592b
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\f1\f1c8d6c4084f1291186848090e85592b
+    projectPath: Library\Artifacts\f1\f1c8d6c4084f1291186848090e85592b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\f2\f2256d84263accbe853b8953432c9729
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\f2\f2256d84263accbe853b8953432c9729
+    projectPath: Library\Artifacts\f2\f2256d84263accbe853b8953432c9729
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: CS347 Project 2\Library\Artifacts\f5\f57011418291e113c02f300befb0f0d8
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\f5\f57011418291e113c02f300befb0f0d8
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\f5\f57011418291e113c02f300befb0f0d8
     projectPath: Library\Artifacts\f5\f57011418291e113c02f300befb0f0d8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Library\Artifacts\fd\fd952bf90bdf2e6d34cc3361d13d498d
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\Artifacts\fd\fd952bf90bdf2e6d34cc3361d13d498d
-    projectPath: Library\Artifacts\fd\fd952bf90bdf2e6d34cc3361d13d498d
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\f5\f5de004ad3ef839fefd7c92c63cb822e
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\f5\f5de004ad3ef839fefd7c92c63cb822e
+    projectPath: Library\Artifacts\f5\f5de004ad3ef839fefd7c92c63cb822e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: CS347 Project 2\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: CS347 Project 2\Library\Artifacts\fc\fc309ee417cfc44485c6552ba89ad036
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\fc\fc309ee417cfc44485c6552ba89ad036
+    projectPath: Library\Artifacts\fc\fc309ee417cfc44485c6552ba89ad036
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Library\Artifacts\fd\fd7a7fc14558e40c16797bb8515d40ed
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\fd\fd7a7fc14558e40c16797bb8515d40ed
+    projectPath: Library\Artifacts\fd\fd7a7fc14558e40c16797bb8515d40ed
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\fd\fd952bf90bdf2e6d34cc3361d13d498d
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\fd\fd952bf90bdf2e6d34cc3361d13d498d
+    projectPath: Library\Artifacts\fd\fd952bf90bdf2e6d34cc3361d13d498d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Library\Artifacts\ff\ff31d9b86f285572fcb2b6ed6c0c8039
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\Artifacts\ff\ff31d9b86f285572fcb2b6ed6c0c8039
+    projectPath: Library\Artifacts\ff\ff31d9b86f285572fcb2b6ed6c0c8039
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: CS347 Project 2\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: CS347 Project 2\Library\PackageManager\ProjectCache
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\SourceAssetDB
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\SourceAssetDB
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: CS347 Project 2\Library\StateCache\PrefabStageHierarchy\2b\2b98eb583ce29cd1ce2c68e75b764b9f.json
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\StateCache\PrefabStageHierarchy\2b\2b98eb583ce29cd1ce2c68e75b764b9f.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\2b\2b98eb583ce29cd1ce2c68e75b764b9f.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: CS347 Project 2\Library\StateCache\SceneView\28\28e4b14256123fc533bbb6078adc039f.json
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\StateCache\SceneView\28\28e4b14256123fc533bbb6078adc039f.json
-    projectPath: Library\StateCache\SceneView\28\28e4b14256123fc533bbb6078adc039f.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: CS347 Project 2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Logs\AssetImportWorker0.log
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: CS347 Project 2\ProjectSettings\TagManager.asset
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+    workTreeStatus: 5
+  - path: CS347 Project 2\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: CS347 Project 2\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: CS347 Project 2\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Temp\CompilationLog.txt
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\CompilationLog.txt
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: CS347 Project 2\Temp\UnityTempFile-0f765254e7bd2144bbf8fa7223ba1d67
-    fullPath: C:\Users\John\Desktop\School\Spring 2021\CS347\CS347-Project-2\CS347
-      Project 2\Temp\UnityTempFile-0f765254e7bd2144bbf8fa7223ba1d67
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-0f765254e7bd2144bbf8fa7223ba1d67
     projectPath: Temp\UnityTempFile-0f765254e7bd2144bbf8fa7223ba1d67
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-3284188e1013faf44b7ca53d9dba7487
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-3284188e1013faf44b7ca53d9dba7487
+    projectPath: Temp\UnityTempFile-3284188e1013faf44b7ca53d9dba7487
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-76d78fccd9bd0be4b9ce05ae61537e5f
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-76d78fccd9bd0be4b9ce05ae61537e5f
+    projectPath: Temp\UnityTempFile-76d78fccd9bd0be4b9ce05ae61537e5f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-838f15db6f9141143868beac2ac23688
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-838f15db6f9141143868beac2ac23688
+    projectPath: Temp\UnityTempFile-838f15db6f9141143868beac2ac23688
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-8a53265dc49687242af906b311e126f5
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-8a53265dc49687242af906b311e126f5
+    projectPath: Temp\UnityTempFile-8a53265dc49687242af906b311e126f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\UnityTempFile-b259424288de11646864fad0fde1af56
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-b259424288de11646864fad0fde1af56
+    projectPath: Temp\UnityTempFile-b259424288de11646864fad0fde1af56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: CS347 Project 2\Temp\UnityTempFile-b71053a63682d734ba44a85822e155da
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\UnityTempFile-b71053a63682d734ba44a85822e155da
+    projectPath: Temp\UnityTempFile-b71053a63682d734ba44a85822e155da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: CS347 Project 2\Temp\workerlic
+    fullPath: C:\Users\dylan\Documents\GitHub\CS347-Project-2\CS347 Project 2\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
