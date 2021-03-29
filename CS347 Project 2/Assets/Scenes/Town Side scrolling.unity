@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 78930545}
   - component: {fileID: 78930547}
   m_Layer: 0
-  m_Name: cactus2 (1)
+  m_Name: cactus outside
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -183,7 +183,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: 21300000, guid: e216181546f67084f87a258a122ebea9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 84265b8fd13314a40918e94cce42230e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
   m_FlipY: 0
@@ -206,7 +206,7 @@ Transform:
   m_LocalScale: {x: 0.11091701, y: 0.16637552, z: 0.22183402}
   m_Children: []
   m_Father: {fileID: 216436414}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &78930545
 Rigidbody2D:
@@ -744,8 +744,8 @@ Transform:
   - {fileID: 695652180}
   - {fileID: 1689408791}
   - {fileID: 1821158063}
-  - {fileID: 78930544}
   - {fileID: 1114287931}
+  - {fileID: 78930544}
   - {fileID: 561446374}
   - {fileID: 1564189395}
   m_Father: {fileID: 0}
@@ -808,7 +808,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 5e230cf9e1cb56143b7ea93b05e6cc31, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d4307b043f3b43e4688366c6e921815e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -893,7 +893,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 5e230cf9e1cb56143b7ea93b05e6cc31, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d4307b043f3b43e4688366c6e921815e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1169,7 +1169,7 @@ GameObject:
   - component: {fileID: 561446375}
   - component: {fileID: 561446377}
   m_Layer: 0
-  m_Name: cactus2 (3)
+  m_Name: cactus outside
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1215,7 +1215,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: 21300000, guid: e216181546f67084f87a258a122ebea9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 84265b8fd13314a40918e94cce42230e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
   m_FlipY: 0
@@ -2515,7 +2515,7 @@ GameObject:
   - component: {fileID: 1114287931}
   - component: {fileID: 1114287930}
   m_Layer: 0
-  m_Name: cactus2 (2)
+  m_Name: cactus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2561,7 +2561,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: e216181546f67084f87a258a122ebea9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 84265b8fd13314a40918e94cce42230e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2584,7 +2584,7 @@ Transform:
   m_LocalScale: {x: 0.11091701, y: 0.16637552, z: 0.22183402}
   m_Children: []
   m_Father: {fileID: 216436414}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1358869972
 GameObject:
@@ -3297,7 +3297,7 @@ GameObject:
   - component: {fileID: 1689408791}
   - component: {fileID: 1689408790}
   m_Layer: 0
-  m_Name: barrel_0
+  m_Name: barrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3343,12 +3343,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: -1209127185579228243, guid: 22d0c3617b6a6a14abdd443d4030d334, type: 3}
+  m_Sprite: {fileID: -1209127185579228243, guid: 38ff125cf0125d944a011149b2519fad, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.38, y: 0.35}
+  m_Size: {x: 0.34, y: 0.33}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3379,7 +3379,7 @@ GameObject:
   - component: {fileID: 1821158063}
   - component: {fileID: 1821158062}
   m_Layer: 0
-  m_Name: cactus2
+  m_Name: cactus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3425,7 +3425,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: e216181546f67084f87a258a122ebea9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 84265b8fd13314a40918e94cce42230e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4434,7 +4434,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 870e16a7198ede84cb987474fa85cf1d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9350a9df99f90a9438f0b72cf2d81e56, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

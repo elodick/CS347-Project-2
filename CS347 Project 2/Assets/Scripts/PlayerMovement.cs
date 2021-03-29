@@ -12,7 +12,6 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     public Animator animator;
     public Sprite mainSprite;
-    public Sprite hitSprite;
     public bool isHit;
     public float hitRecovery = 0.5f;
     
@@ -130,6 +129,11 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Speed", Mathf.Abs(speed));
     }
 
+    public void onLanding()
+    {
+        animator.SetBool("Jump", false);
+    }
+
     private void FixedUpdate()
     {
         // hitRecovery is constantly being decremented, allows for the isHit conditions to stay on screen long enough to be seen
@@ -161,10 +165,7 @@ public class PlayerMovement : MonoBehaviour
        
     }
 
-    public void onLanding()
-    {
-        animator.SetBool("Jump", false);
-    }
+   
 
     //Bullet is fired left or right and ammo reduced
     private void playerShoot()

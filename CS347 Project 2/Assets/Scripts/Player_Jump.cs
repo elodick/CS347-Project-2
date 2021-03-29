@@ -1,15 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Player_Jump : MonoBehaviour
 {
     GameObject Player;
+    public UnityEvent LandingEvent;
+    
     // Start is called before the first frame update
     void Start()
     {
         // Gives access to other scripts and variables on player
-        Player = gameObject.transform.parent.gameObject; 
+        Player = gameObject.transform.parent.gameObject;
+        if (LandingEvent == null)
+            LandingEvent = new UnityEvent();
     }
 
     // Update is called once per frame
@@ -23,6 +28,8 @@ public class Player_Jump : MonoBehaviour
         if(collision.collider.tag =="Ground")
         {
             Player.GetComponent<PlayerMovement>().canJump = true;
+            LandingEvent.Invoke();
+            
         }
     }
     //When leaving the ground
