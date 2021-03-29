@@ -133,9 +133,9 @@ GameObject:
   m_Component:
   - component: {fileID: 78930544}
   - component: {fileID: 78930543}
-  - component: {fileID: 78930547}
   - component: {fileID: 78930546}
   - component: {fileID: 78930545}
+  - component: {fileID: 78930547}
   m_Layer: 0
   m_Name: cactus2 (1)
   m_TagString: Untagged
@@ -267,6 +267,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 039eeb6acca0efc4594af0cc6928f165, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Overworld: Project_2
+  Town: Town Side scrolling
+  Desert: SampleScene
 --- !u!1 &85524035
 GameObject:
   m_ObjectHideFlags: 0
@@ -1164,6 +1167,7 @@ GameObject:
   - component: {fileID: 561446373}
   - component: {fileID: 561446376}
   - component: {fileID: 561446375}
+  - component: {fileID: 561446377}
   m_Layer: 0
   m_Name: cactus2 (3)
   m_TagString: Untagged
@@ -1283,6 +1287,21 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.56, y: 2.56}
   m_EdgeRadius: 0
+--- !u!114 &561446377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 561446372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 039eeb6acca0efc4594af0cc6928f165, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Overworld: Project_2
+  Town: Town Side scrolling
+  Desert: SampleScene
 --- !u!1 &649647878
 GameObject:
   m_ObjectHideFlags: 0
