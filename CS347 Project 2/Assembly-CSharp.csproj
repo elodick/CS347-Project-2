@@ -56,6 +56,7 @@
      <Compile Include="Assets\Scripts\AmmoUI.cs" />
      <Compile Include="Assets\Scripts\VultureController.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Melee.cs" />
      <Compile Include="Assets\Scripts\Change Scene.cs" />
      <Compile Include="Assets\Scripts\Heart_Manage.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
