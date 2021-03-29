@@ -55,6 +55,8 @@ public class PlayerMovement : MonoBehaviour
     //Direction player is facing
     public bool facingLeft;
 
+    private float speed = 0f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -74,7 +76,8 @@ public class PlayerMovement : MonoBehaviour
         var jumpIsPressed = Input.GetKeyDown(KeyCode.UpArrow);
         var Melee = Input.GetKeyDown(KeyCode.X);
 
-           
+        
+
         //Called when Right Key is Pressed
         if (rightIsPressed)
         {
@@ -98,10 +101,12 @@ public class PlayerMovement : MonoBehaviour
         if(jumpIsPressed && canJump == true)
         {
             jump();
+            animator.SetBool("Jump", true);
         }
         if(Melee)
         {
             MeleeAttack();
+            animator.SetBool("Melee", true);
         }
 
         /* if player is in the 'isHit' = true state, and still recovering from hit (hitRecovery >= 0),
@@ -111,16 +116,19 @@ public class PlayerMovement : MonoBehaviour
         {
             if (hitRecovery >= 0)
             {
-                spriteRenderer.sprite = hitSprite;
+                animator.SetBool("Hit", true);
                 spriteRenderer.color = new Color(1, 0, 0, 1);
             }
             else
             {
-                spriteRenderer.sprite = mainSprite;
+                animator.SetBool("Hit", false);
                 spriteRenderer.color = new Color(1, 1, 1, 1);
             }
         }
-   }
+
+        speed = Input.GetAxisRaw("Horizontal") * MoveSpeed;
+        animator.SetFloat("Speed", Mathf.Abs(speed));
+    }
 
     private void FixedUpdate()
     {
@@ -151,6 +159,12 @@ public class PlayerMovement : MonoBehaviour
         gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, JumpSpeed), ForceMode2D.Impulse);
        
     }
+
+    public void onLanding()
+    {
+        animator.SetBool("Jump", false);
+    }
+
     //Bullet is fired left or right and ammo reduced
     private void playerShoot()
     {
@@ -171,14 +185,11 @@ public class PlayerMovement : MonoBehaviour
     //function to move right
     private void MoveRight()
     {
-       
         var currentPosition = this.gameObject.GetComponent<Transform>().position;
         var time = UnityEngine.Time.deltaTime;
         var offset = Vector3.right * MoveSpeed * time;
         var newPosition = currentPosition + offset;
         this.gameObject.GetComponent<Transform>().position = newPosition;
-
-        animator.SetFloat("Speed", Mathf.Abs(offset));
 
         //graphics 
         if (facingLeft == true)
@@ -198,14 +209,12 @@ public class PlayerMovement : MonoBehaviour
         var newPosition = currentPosition + offset;
         this.gameObject.GetComponent<Transform>().position = newPosition;
 
-        animator.SetFloat("Speed", Mathf.Abs(offset));
-
         //graphics 
         if (facingLeft == false)
         { 
             spriteRenderer.flipX = true;
          }
-    facingLeft = true;
+        facingLeft = true;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
