@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Player_attack
   - ground_edge
+  - pitbottom
   layers:
   - Default
   - TransparentFX

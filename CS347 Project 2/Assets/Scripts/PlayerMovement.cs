@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -229,6 +230,11 @@ public class PlayerMovement : MonoBehaviour
             Health--;
             isHit = true;
             hitRecovery = 0.5f;
+        }
+
+        if (collision.gameObject.CompareTag("pitbottom"))
+        {
+            SceneManager.LoadScene("SampleScene");
         }
     }
 
