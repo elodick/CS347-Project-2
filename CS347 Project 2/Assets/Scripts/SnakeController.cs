@@ -15,6 +15,7 @@ public class SnakeController : EnemyController
     
     public float attackRange = 1.5f;
     public float rateOfAttack;
+    BoxCollider2D snakebox;
     // Start is called before the first frame update
     override protected void Start()
     {
@@ -22,6 +23,7 @@ public class SnakeController : EnemyController
         speed = 3f;
         aggroDist = 15f;
         cooldown = 4.0f;
+        snakebox = this.GetComponent<BoxCollider2D>();
     }
 
     // Update is called once per frame
@@ -57,10 +59,12 @@ public class SnakeController : EnemyController
         if (distanceToPlayer <= attackRange)
         {
             spriteRenderer.sprite = newSprite2;
-          
+            snakebox.size = new Vector2(4.90f, 3.57f);
             if (rateOfAttack <= 2)
             {
                 spriteRenderer.sprite = newSprite3;
+                snakebox.size = new Vector2(8, 3.57f);
+                
             }
             if (rateOfAttack <= 0)
             {
@@ -76,6 +80,7 @@ public class SnakeController : EnemyController
         spriteRenderer.sprite = newSprite;
         Vector2 oldLocation = transform.position;
         Vector2 newLocation = oldLocation;
+        snakebox.size = new Vector2(4.90f, 3.57f);
         if (Vector2.Distance(transform.position, playerTransform.position) >= attackRange)
         {
             transform.position = Vector2.MoveTowards(transform.position, playerTransform.position, speed * Time.deltaTime);

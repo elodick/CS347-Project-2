@@ -15,8 +15,8 @@ public class PlayerMovement : MonoBehaviour
     public Sprite mainSprite;
     public bool isHit;
     public float hitRecovery = 0.5f;
-    
-    
+    public float knockback = 350;
+
 
     //Direct player Variables
     [SerializeField]
@@ -227,11 +227,12 @@ public class PlayerMovement : MonoBehaviour
     {
         /*If player collides with enemy, or with the enemy bandit's bullet, decrement player's
          * health by 1, set the isHit flag to true, and set the hitRecovery to 0.5f */
-        if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.GetComponent<BanditBulletController>())
+        if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.GetComponent<BanditBulletController>() && hitRecovery <= 0)
         {
             Health--;
             isHit = true;
             hitRecovery = 0.5f;
+            gameObject.GetComponent<Rigidbody2D>().AddForce(transform.up * knockback + transform.right * (-1*knockback));
         }
 
         if (collision.gameObject.CompareTag("pitbottom"))
