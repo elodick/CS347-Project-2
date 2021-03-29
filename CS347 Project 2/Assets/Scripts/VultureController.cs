@@ -14,18 +14,18 @@ using UnityEngine;
 public class VultureController : EnemyController
 {
     // amplitude determines the height of the wave the vulture moves on
-    public float amplitude = 4.0f;
-    public float sideSpeed = 0.003f;
+    public float amplitude = 2.0f;
+    public float sideSpeed = 3.0f;
     // Start is called before the first frame update
     override protected void Start()
     {
         base.Start();
-        speed = 0.01f;
-        aggroDist = 20.0f;
+        speed = 4.0f;
+        aggroDist = 18.0f;
     }
 
     // Update is called once per frame
-    override protected void Update()
+    void FixedUpdate()
     {
         base.Update();
         AIUpdate();
@@ -60,7 +60,7 @@ public class VultureController : EnemyController
     private void Movement()
     {
         spriteRenderer.sprite = newSprite;
-        transform.position -= transform.up * Mathf.Sin(Time.time * amplitude) * speed;
-        transform.position -= transform.right * sideSpeed;
+        transform.position -= transform.up * Mathf.Sin(Time.time * amplitude) * Time.deltaTime*speed;
+        transform.position -= transform.right * Time.deltaTime*sideSpeed;
     }
 }
