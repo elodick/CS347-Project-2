@@ -21,6 +21,7 @@ public class BanditController : EnemyController
         base.Start();
         facing = Facing.LEFT;
         speed = 2f;
+        aggroDist = 15.0f;
     }
 
     // Update is called once per frame

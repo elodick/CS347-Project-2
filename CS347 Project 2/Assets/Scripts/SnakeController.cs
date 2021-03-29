@@ -20,7 +20,7 @@ public class SnakeController : EnemyController
     {
         base.Start();
         speed = 3f;
-        aggroDist = 8f;
+        aggroDist = 15f;
         cooldown = 4.0f;
     }
 

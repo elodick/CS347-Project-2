@@ -8,6 +8,7 @@ TagManager:
   - Bullet
   - Enemy
   - Player_attack
+  - ground_edge
   layers:
   - Default
   - TransparentFX
