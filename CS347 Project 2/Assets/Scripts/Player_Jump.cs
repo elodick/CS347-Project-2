@@ -28,10 +28,12 @@ public class Player_Jump : MonoBehaviour
         if(collision.collider.tag =="Ground" || collision.collider.tag == "ground_edge")
         {
             Player.GetComponent<PlayerMovement>().canJump = true;
-            LandingEvent.Invoke();
+            if(LandingEvent != null)
+                LandingEvent.Invoke();
             
         }
     }
+
     //When leaving the ground
     private void OnCollisionExit2D(Collision2D collision)
     {

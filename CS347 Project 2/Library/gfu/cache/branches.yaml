@@ -13,14 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2021-03-29T20:57:27.412-05:00
   initializedAtString: 2021-03-29T20:57:27.378-05:00
+=======
+  lastUpdatedAtString: 2021-03-29T21:38:31.829-05:00
+  initializedAtString: 2021-03-29T20:52:13.413-05:00
+>>>>>>> Stashed changes
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
-  - name: origin/HEAD
-    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -45,15 +48,9 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - HEAD
       - master
     subKeyValues:
     - Values:
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/elodick/CS347-Project-2.git
-        trackingBranch: 
       - name: master
         remote:
           name: origin
