@@ -16,8 +16,7 @@ public class EnemyController : MonoBehaviour
     public Sprite newSprite;
     public Sprite newSprite2;
     public Sprite newSprite3;
-    public int maxHealth;
-    public int curHealth;
+    public int health;
 
     public float speed;
     public float aggroDist;
@@ -29,6 +28,7 @@ public class EnemyController : MonoBehaviour
         player = GameObject.Find("Player");
         playerTransform = player.GetComponent<Transform>();
         selfTransform = GetComponent<Transform>();
+        health = 2;
     }
 
     // Update is called once per frame
@@ -43,13 +43,12 @@ public class EnemyController : MonoBehaviour
         // behavior if hit with bullet
         if (collision.gameObject.CompareTag("Bullet"))
         {
-            // include any death sprites here
-            Destroy(gameObject);
+            health--;
         }
 
         if (collision.gameObject.CompareTag("Player_attack"))
         {
-            Destroy(gameObject);
+            health--;
         }
 
         // allow enemies to pass through each other

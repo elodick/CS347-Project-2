@@ -66,7 +66,7 @@ public class PlayerMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Ammo = 10; 
+        Ammo = 0; 
         facingLeft = false;
         spriteRenderer = this.gameObject.GetComponent<SpriteRenderer>();
         canJump = false; 
@@ -248,6 +248,12 @@ public class PlayerMovement : MonoBehaviour
         {
             SceneManager.LoadScene("SampleScene");
         }
+
+        if (collision.gameObject.CompareTag("Crate"))
+        {
+            Ammo += 3;
+        }
     }
 
+    
 }

@@ -29,6 +29,10 @@ public class VultureController : EnemyController
     {
         base.Update();
         AIUpdate();
+        if (health == 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void AIUpdate()

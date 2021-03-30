@@ -29,6 +29,10 @@ public class BanditController : EnemyController
     {
         Movement();
         Aggro();
+        if (health == 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void FixedUpdate()

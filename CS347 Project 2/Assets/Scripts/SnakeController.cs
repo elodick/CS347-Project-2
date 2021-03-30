@@ -31,6 +31,10 @@ public class SnakeController : EnemyController
     {
         AIUpdate();
         rateOfAttack -= Time.deltaTime;
+        if (health == 0)
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void AIUpdate()
