@@ -5,25 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    public string Overworld, Town, Desert;
-    private Scene scene;
-    // Start is called before the first frame update
-    void Start()
-    {
-        scene = SceneManager.GetActiveScene();
-    }
+    [SerializeField]
+    private string nextSceneName;
 
-    // Update is called once per frame
-    void Update()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        
-    }
-
-    private void OnTriggerEnter2D(Collider2D collider)
-    {
-        if (scene.name == Town || scene.name == Desert)
-            SceneManager.LoadSceneAsync(Overworld);
-        else
-            SceneManager.LoadSceneAsync(collider.name);
+        if (collision.gameObject.CompareTag("Player"))
+            SceneManager.LoadScene(nextSceneName);
     }
 }
