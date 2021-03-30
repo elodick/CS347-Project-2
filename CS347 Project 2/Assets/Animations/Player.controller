@@ -217,15 +217,7 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  m_AnyStatePosition: {x: 600, y: 0, z: 0}
-=======
   m_AnyStatePosition: {x: 540, y: 40, z: 0}
->>>>>>> Stashed changes
-=======
-  m_AnyStatePosition: {x: 540, y: 40, z: 0}
->>>>>>> Stashed changes
   m_EntryPosition: {x: -10, y: -60, z: 0}
   m_ExitPosition: {x: 920, y: 220, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
@@ -425,14 +417,7 @@ AnimatorState:
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 8382176544750488902}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
   - {fileID: -4099931757109594012}
->>>>>>> Stashed changes
-=======
-  - {fileID: -4099931757109594012}
->>>>>>> Stashed changes
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -484,18 +469,10 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: Melee
     m_EventTreshold: 0
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
   - m_ConditionMode: 4
     m_ConditionEvent: Speed
     m_EventTreshold: 0.1
->>>>>>> Stashed changes
-=======
-  - m_ConditionMode: 4
-    m_ConditionEvent: Speed
-    m_EventTreshold: 0.1
->>>>>>> Stashed changes
+
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2511925509257950993}
   m_Solo: 0
@@ -510,11 +487,6 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
 --- !u!1101 &8740974787067117649
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -543,7 +515,3 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
