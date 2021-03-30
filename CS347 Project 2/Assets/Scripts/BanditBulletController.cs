@@ -10,7 +10,7 @@ public class BanditBulletController : MonoBehaviour
 {
 
     public float speed = 0.2f;
-    public float life = 50;
+    public float life = 150;
     /*OnTrigger and OnCollision functions will be filled in once we have the player object and 
      * determine what happens when player is struck by a bullet */
     private void OnTriggerEnter2D(Collider2D collision)
