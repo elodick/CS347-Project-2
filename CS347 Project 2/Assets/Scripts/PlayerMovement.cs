@@ -23,7 +23,13 @@ public class PlayerMovement : MonoBehaviour
     public int Ammo;
 
     [SerializeField]
-    public bool canJump; 
+    public bool canJump;
+
+    [SerializeField]
+    public AudioSource Gunsound;
+
+    [SerializeField]
+    public AudioSource meleeSound;
 
     [SerializeField]
     float MoveSpeed ;
@@ -105,6 +111,7 @@ public class PlayerMovement : MonoBehaviour
         }
         if(Melee)
         {
+          //  sound = this.gameObject.GetComponent<AudioSource>(GunSound);
             MeleeAttack();
             animator.SetBool("Melee", true);
         }
@@ -146,6 +153,7 @@ public class PlayerMovement : MonoBehaviour
     }
     private void MeleeAttack()
     {
+        meleeSound.Play();
         GameObject S = Instantiate(Attack);
         //This call to change slash direction is not working 
        // S.GetComponent<Attack>().attacking(facingLeft);
@@ -176,6 +184,7 @@ public class PlayerMovement : MonoBehaviour
         Ammo--;
         GameObject b = Instantiate(Bullet);
         b.GetComponent<Bullet>().shooting(facingLeft);
+        Gunsound.Play();
         if (facingLeft == true)
         {
             b.transform.position = B_PlacementL.transform.position;
