@@ -107,7 +107,6 @@ public class PlayerMovement : MonoBehaviour
         if(jumpIsPressed && canJump == true)
         {
             jump();
-            animator.SetBool("Jump", true);
         }
         if(Melee)
         {
@@ -137,6 +136,7 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Speed", Mathf.Abs(speed));
     }
 
+    [SerializeField]
     public void onLanding()
     {
         animator.SetBool("Jump", false);
@@ -173,7 +173,7 @@ public class PlayerMovement : MonoBehaviour
     private void jump()
     {
         gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0f, JumpSpeed), ForceMode2D.Impulse);
-       
+        animator.SetBool("Jump", true);
     }
 
    
