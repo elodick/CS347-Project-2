@@ -1,7 +1,46 @@
 fileFormatVersion: 2
 guid: 689163630052e9643ac6f88e7f01a2c7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3111763100740622692
+    second: Horse_Idle_0
+  - first:
+      213: 6368666205656453671
+    second: Horse_Idle_1
+  - first:
+      213: -8972702074475634173
+    second: Horse_Idle_2
+  - first:
+      213: -1918351765551173753
+    second: Horse_Idle_3
+  - first:
+      213: -8329988690799480971
+    second: Horse_Idle_4
+  - first:
+      213: -2083302056398153563
+    second: Horse_Idle_5
+  - first:
+      213: -4622748143258257034
+    second: Horse_Idle_6
+  - first:
+      213: 8508511872217090590
+    second: Horse_Idle_7
+  - first:
+      213: 1938537559782762058
+    second: Horse_Idle_8
+  - first:
+      213: -8239004692516890051
+    second: Horse_Idle_9
+  - first:
+      213: 6170528226679277848
+    second: Horse_Idle_10
+  - first:
+      213: 5388637237585019670
+    second: Horse_Idle_11
+  - first:
+      213: 5635875990961325360
+    second: Horse_Idle_12
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +80,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +114,294 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Horse_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96ef2b52fbc0d4d0800000000000000
+      internalID: -3111763100740622692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221031eb2c026850800000000000000
+      internalID: 6368666205656453671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302287fa00f8a7380800000000000000
+      internalID: -8972702074475634173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f241cab35a065e0800000000000000
+      internalID: -1918351765551173753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f20ed7b6fe56c80800000000000000
+      internalID: -8329988690799480971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81c8841df9613e0800000000000000
+      internalID: -2083302056398153563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679befa5e03b8dfb0800000000000000
+      internalID: -4622748143258257034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a81beb77e441670800000000000000
+      internalID: 8508511872217090590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46aa9ac3a117ea10800000000000000
+      internalID: 1938537559782762058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a11cf52ec29ad80800000000000000
+      internalID: -8239004692516890051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194db3babe12a550800000000000000
+      internalID: 6170528226679277848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61382b1740948ca40800000000000000
+      internalID: 5388637237585019670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03507678a57a63e40800000000000000
+      internalID: 5635875990961325360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
