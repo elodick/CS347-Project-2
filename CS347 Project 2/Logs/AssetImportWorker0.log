@@ -16,11 +16,19 @@ D:/black/Documents/GitHub/CS347-Project-2/CS347 Project 2
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 55079
 Successfully changed project path to: D:/black/Documents/GitHub/CS347-Project-2/CS347 Project 2
 D:/black/Documents/GitHub/CS347-Project-2/CS347 Project 2
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 45.02 ms, found 3 plugins.
+=======
+53084
+Successfully changed project path to: D:/black/Documents/GitHub/CS347-Project-2/CS347 Project 2
+D:/black/Documents/GitHub/CS347-Project-2/CS347 Project 2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.74 ms, found 3 plugins.
+>>>>>>> Stashed changes
 =======
 53084
 Successfully changed project path to: D:/black/Documents/GitHub/CS347-Project-2/CS347 Project 2
@@ -44,6 +52,7 @@ Mono path[0] = 'D:/Program Files/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Program Files/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -52,6 +61,8 @@ Registered in 0.001356 seconds.
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 41.46 ms, found 3 plugins.
 =======
+=======
+>>>>>>> Stashed changes
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56600
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -59,6 +70,9 @@ Register platform support module: D:/Program Files/2020.3.0f1/Editor/Data/Playba
 Registered in 0.001330 seconds.
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 41.00 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
@@ -66,10 +80,17 @@ RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Completed reload, in  1.278 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 Registered in 0.007251 seconds.
+=======
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008014 seconds.
+>>>>>>> Stashed changes
 =======
 - Completed reload, in  1.270 seconds
 Platform modules already initialized, skipping
@@ -95,7 +116,11 @@ The message will be ignored.
 
 Native extension for WindowsStandalone target not found
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 41.66 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 39.88 ms, found 3 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 39.88 ms, found 3 plugins.
 >>>>>>> Stashed changes
@@ -105,7 +130,11 @@ RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Completed reload, in  0.977 seconds
+=======
+- Completed reload, in  0.910 seconds
+>>>>>>> Stashed changes
 =======
 - Completed reload, in  0.910 seconds
 >>>>>>> Stashed changes
@@ -114,7 +143,11 @@ Platform modules already initialized, skipping
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+>>>>>>> Stashed changes
 =======
 Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
 >>>>>>> Stashed changes
@@ -152,6 +185,7 @@ Start importing Assets/Animations/Player.controller using Guid(0da9b59caaf043547
 =======
 Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2326.
 Total: 1.899700 ms (FindLiveObjects: 0.172900 ms CreateObjectMapping: 0.050800 ms MarkObjects: 1.570900 ms  DeleteObjects: 0.104000 ms)
+<<<<<<< Updated upstream
 
 ========================================================================
 Received Import Request.
@@ -352,11 +386,214 @@ Start importing Assets/Sprites/Cowboy4_jump shoot_3.png using Guid(9bed6f1bb4dc0
 
 ========================================================================
 Received Import Request.
+=======
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(60914f1189a3fb74ba869e66dfc1995f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(60914f1189a3fb74ba869e66dfc1995f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab70993b02b0e6d0a54b2678abb3ab34') in 0.025213 seconds
+  Import took 0.028116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Scenes/Project_2.unity
+  artifactKey: Guid(ac4323b4408512148a9145758552569f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Project_2.unity using Guid(ac4323b4408512148a9145758552569f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4aa139f36cf12e4bea1ee0a2d5d5a1') in 0.010148 seconds
+  Import took 0.012699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.156729 seconds.
+  path: Assets/Scenes/Town Side scrolling.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Town Side scrolling.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bcd9c18d2cbf2d33cf9de028b879cd') in 0.004814 seconds
+  Import took 0.007978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.748613 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(967e717ec8d77bf40b9ff78f8bae7b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(967e717ec8d77bf40b9ff78f8bae7b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245bff83cdc221891c7a8d5d311ec4b2') in 0.005566 seconds
+  Import took 0.008297 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.067 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 3.203600 ms (FindLiveObjects: 0.401500 ms CreateObjectMapping: 0.147000 ms MarkObjects: 2.556800 ms  DeleteObjects: 0.096200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007259 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Platform modules already initialized, skipping
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Script error: OnTriggerEnter2D
+This message parameter has to be of type: Collider2D
+The message will be ignored.
+
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 2.325800 ms (FindLiveObjects: 0.268800 ms CreateObjectMapping: 0.078300 ms MarkObjects: 1.866500 ms  DeleteObjects: 0.110500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 295.892769 seconds.
+  path: Assets/Scripts/Player_Jump.cs
+  artifactKey: Guid(45091b3256258b0438fa03ee40e4ddae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player_Jump.cs using Guid(45091b3256258b0438fa03ee40e4ddae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f9a300fb4008f9041cdbe5a08e31b0') in 0.125196 seconds
+  Import took 0.128060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.409352 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(23387fad8f9ef7b4198117c9c806c27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(23387fad8f9ef7b4198117c9c806c27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23ed5055127b734975520f4d0783400') in 0.004524 seconds
+  Import took 0.007430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088406 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(23387fad8f9ef7b4198117c9c806c27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(23387fad8f9ef7b4198117c9c806c27a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23ed5055127b734975520f4d0783400') in 0.003827 seconds
+  Import took 0.006861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 406.842819 seconds.
+  path: Assets/Sprites/banditbullet.png
+  artifactKey: Guid(576a11086d57f014999e9765556c4e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/banditbullet.png using Guid(576a11086d57f014999e9765556c4e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c61ba1fe0fa271a58a24e95cd03c1d5') in 0.112444 seconds
+  Import took 0.115564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Sprites/Cowboy4_jump without gun_0.png
+  artifactKey: Guid(7f0b90a21cb030a4c9ea84b5d7fcf696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_jump without gun_0.png using Guid(7f0b90a21cb030a4c9ea84b5d7fcf696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce82302a1ff0cd6cb9d084c5625bfe6') in 0.012703 seconds
+  Import took 0.015385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Sprites/Cowboy4_walk with gun_3.png
+  artifactKey: Guid(5d681377eab6551458699d991dee7189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_walk with gun_3.png using Guid(5d681377eab6551458699d991dee7189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b81040af9da6653273f6be081f88a9a') in 0.013952 seconds
+  Import took 0.017598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Sprites/Cowboy4_walk with gun_0 1.png
+  artifactKey: Guid(45cfdda1da093c24f88251b691d41346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_walk with gun_0 1.png using Guid(45cfdda1da093c24f88251b691d41346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717d2f1f6d6f5cf188e1aeda8ded2c2c') in 0.010609 seconds
+  Import took 0.013771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Sprites/Cowboy4_idle with gun_3.png
+  artifactKey: Guid(9cd80db373bdd5644ac1afd9363f956f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_idle with gun_3.png using Guid(9cd80db373bdd5644ac1afd9363f956f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e426894acc2742231d9366405259f0c1') in 0.014982 seconds
+  Import took 0.017980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Sprites/Cowboy4_jump shoot_2 1.png
+  artifactKey: Guid(95986aeb2b64cf24490df60f8295490e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_jump shoot_2 1.png using Guid(95986aeb2b64cf24490df60f8295490e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f3bdc816822b44f0e5caeb611e73f3') in 0.011960 seconds
+  Import took 0.014734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Sprites/Cowboy4_walk with gun_2.png
+  artifactKey: Guid(e31ee287d38ad83458b7b55ab6428ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_walk with gun_2.png using Guid(e31ee287d38ad83458b7b55ab6428ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2388ab0fa441fedbc754dd1e48a4c17') in 0.008682 seconds
+  Import took 0.012050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Sprites/Cowboy4_jump shoot_3.png
+  artifactKey: Guid(9bed6f1bb4dc0f646a4ec3c737264db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_jump shoot_3.png using Guid(9bed6f1bb4dc0f646a4ec3c737264db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a848e32afc555b8c39a7d5150c596364') in 0.012860 seconds
+  Import took 0.016083 seconds .
+
+========================================================================
+Received Import Request.
+>>>>>>> Stashed changes
   Time since last request: 0.000306 seconds.
   path: Assets/Sprites/Cowboy4_shoot_0 1.png
   artifactKey: Guid(f1b3d1309aa7b764f8e3d513c90836e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Cowboy4_shoot_0 1.png using Guid(f1b3d1309aa7b764f8e3d513c90836e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4231c49a1ff62accd4019192fd69cb') in 0.014785 seconds
   Import took 0.017490 seconds .
+<<<<<<< Updated upstream
 
 ========================================================================
 Received Import Request.
@@ -376,6 +613,27 @@ Start importing Assets/Sprites/Cowboy4_idle with gun_0 1.png using Guid(aa7a49b0
 
 ========================================================================
 Received Import Request.
+=======
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Sprites/cowboyprotohit.png
+  artifactKey: Guid(22a71058d8247e84fbb3fe5ae48562f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/cowboyprotohit.png using Guid(22a71058d8247e84fbb3fe5ae48562f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df89913bbef13156a8a73104817b1935') in 0.019301 seconds
+  Import took 0.022824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Sprites/Cowboy4_idle with gun_0 1.png
+  artifactKey: Guid(aa7a49b0ddc885042b3b607cadbe680c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cowboy4_idle with gun_0 1.png using Guid(aa7a49b0ddc885042b3b607cadbe680c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9840a6b454e748df78d1a546d1dbac00') in 0.014451 seconds
+  Import took 0.017263 seconds .
+
+========================================================================
+Received Import Request.
+>>>>>>> Stashed changes
   Time since last request: 0.000198 seconds.
   path: Assets/Sprites/Cowboy4_idle without gun_3.png
   artifactKey: Guid(8491445919def014bac3c68cf44df353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -820,6 +1078,7 @@ Received Import Request.
   artifactKey: Guid(bf438c60cdb63bb49b537bcded69beaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_FrozenCave_Coral.asset using Guid(bf438c60cdb63bb49b537bcded69beaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627ea94f2edd8894f8e5eeefae02647e') in 0.011725 seconds
   Import took 0.014510 seconds .
+<<<<<<< Updated upstream
 
 ========================================================================
 Received Import Request.
@@ -935,6 +1194,123 @@ Start importing Assets/Resources/Attack.prefab using Guid(501a6f94749d039499fade
 
 ========================================================================
 Received Import Request.
+=======
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_RaisedGrass.asset
+  artifactKey: Guid(1e3819d62e6f6b74eb55efd9b7862080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_RaisedGrass.asset using Guid(1e3819d62e6f6b74eb55efd9b7862080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09ca66810294f43cc795cc59f16eeff') in 0.012706 seconds
+  Import took 0.016035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Temple_FlatStone.asset
+  artifactKey: Guid(78c5e35c4336d2146ab0a4ce7b44ce14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Temple_FlatStone.asset using Guid(78c5e35c4336d2146ab0a4ce7b44ce14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7f594df572c602aa5cfb570bccc421') in 0.013573 seconds
+  Import took 0.016547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Temple_RaisedBlueStone.asset
+  artifactKey: Guid(7bf281396c092e441a872b432e8b73c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Temple_RaisedBlueStone.asset using Guid(7bf281396c092e441a872b432e8b73c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea59ed990b544f28a66e7b95ae98cddc') in 0.014693 seconds
+  Import took 0.017730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Desert_Coral.asset
+  artifactKey: Guid(70bb23fb2f08cd8408147b35eb9793bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Desert_Coral.asset using Guid(70bb23fb2f08cd8408147b35eb9793bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf391e5c84d91f28c2301cfbf96f1149') in 0.008979 seconds
+  Import took 0.011960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Desert_Planks.asset
+  artifactKey: Guid(f089279c83143f8418773c6b22439753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Desert_Planks.asset using Guid(f089279c83143f8418773c6b22439753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bca22afd2f5765c74862c7d8c7b12d1') in 0.010017 seconds
+  Import took 0.013219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Temple_RaisedStone.asset
+  artifactKey: Guid(3db0b9e7ad952704baa47e26ebf3906e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Temple_RaisedStone.asset using Guid(3db0b9e7ad952704baa47e26ebf3906e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f9f4c01e5b075f9bafcd963107f2580') in 0.013333 seconds
+  Import took 0.016774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_FlatGrass.asset
+  artifactKey: Guid(739d9c76a05e863419d2aa2a25eac230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_FlatGrass.asset using Guid(739d9c76a05e863419d2aa2a25eac230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1544f8c9bba07fd5965446fa40e01c2') in 0.010878 seconds
+  Import took 0.013723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_FrozenMountain_FlatGround.asset
+  artifactKey: Guid(45008f92726043a4abadf03a81430678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_FrozenMountain_FlatGround.asset using Guid(45008f92726043a4abadf03a81430678) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcfd8bc4f9ffaa63401b3bf5e3a3cb15') in 0.011534 seconds
+  Import took 0.015059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_Plants.asset
+  artifactKey: Guid(c6301f103f0aaaa4b8c92f10d50d35d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_Plants.asset using Guid(c6301f103f0aaaa4b8c92f10d50d35d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44238b34ec57b7b9a2a4a90ce80345c') in 0.012015 seconds
+  Import took 0.014789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008235 seconds.
+  path: Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_Plants.asset
+  artifactKey: Guid(c6301f103f0aaaa4b8c92f10d50d35d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemaps/Isometric/RuleTiles/RandomTiles/RandomTile_Plains_Plants.asset using Guid(c6301f103f0aaaa4b8c92f10d50d35d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44238b34ec57b7b9a2a4a90ce80345c') in 0.008535 seconds
+  Import took 0.011742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.456428 seconds.
+  path: Assets/Prefabs/Attack.prefab
+  artifactKey: Guid(9d643aa5e696d1c408ad77858e320c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Attack.prefab using Guid(9d643aa5e696d1c408ad77858e320c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e25b77a2d02f43d0401ea41aef3348') in 0.035682 seconds
+  Import took 0.038769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Resources/Attack.prefab
+  artifactKey: Guid(501a6f94749d039499fade7887110dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Attack.prefab using Guid(501a6f94749d039499fade7887110dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18166f986a088f965f5880b2fde589ee') in 0.012834 seconds
+  Import took 0.015669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Prefabs/Attack.prefab
+  artifactKey: Guid(9d643aa5e696d1c408ad77858e320c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Attack.prefab using Guid(9d643aa5e696d1c408ad77858e320c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e25b77a2d02f43d0401ea41aef3348') in 0.016101 seconds
+  Import took 0.019529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Resources/Attack.prefab
+  artifactKey: Guid(501a6f94749d039499fade7887110dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Attack.prefab using Guid(501a6f94749d039499fade7887110dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18166f986a088f965f5880b2fde589ee') in 0.010454 seconds
+  Import took 0.013691 seconds .
+
+========================================================================
+Received Import Request.
+>>>>>>> Stashed changes
   Time since last request: 0.000196 seconds.
   path: Assets/Background/Background2.png
   artifactKey: Guid(193c4e32775ae034a81e8d76ec6311ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -992,6 +1368,7 @@ Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 90.3 MB.
 System memory in use after: 90.3 MB.
+<<<<<<< Updated upstream
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2438.
 Total: 2.171200 ms (FindLiveObjects: 0.219200 ms CreateObjectMapping: 0.135200 ms MarkObjects: 1.730700 ms  DeleteObjects: 0.084700 ms)
@@ -1006,6 +1383,22 @@ Start importing Assets/Animations/Player.controller using Guid(0da9b59caaf043547
 
 ========================================================================
 Received Import Request.
+=======
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2438.
+Total: 2.171200 ms (FindLiveObjects: 0.219200 ms CreateObjectMapping: 0.135200 ms MarkObjects: 1.730700 ms  DeleteObjects: 0.084700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 416.459624 seconds.
+  path: Assets/Animations/Player.controller
+  artifactKey: Guid(0da9b59caaf04354783dcd6a75f75030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player.controller using Guid(0da9b59caaf04354783dcd6a75f75030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd2a13f5a509e9aa95b7b4226208a50') in 0.019086 seconds
+  Import took 0.022599 seconds .
+
+========================================================================
+Received Import Request.
+>>>>>>> Stashed changes
   Time since last request: 188.245045 seconds.
   path: Assets/Scripts
   artifactKey: Guid(57cd2bfff22a0af4d8e7e21fca15ce42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1329,10 +1722,17 @@ Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 90.3 MB.
 System memory in use after: 90.4 MB.
+<<<<<<< Updated upstream
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2466.
 Total: 3.006000 ms (FindLiveObjects: 0.357500 ms CreateObjectMapping: 0.126800 ms MarkObjects: 2.404000 ms  DeleteObjects: 0.115900 ms)
 
+=======
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2466.
+Total: 3.006000 ms (FindLiveObjects: 0.357500 ms CreateObjectMapping: 0.126800 ms MarkObjects: 2.404000 ms  DeleteObjects: 0.115900 ms)
+
+>>>>>>> Stashed changes
 ========================================================================
 Received Import Request.
   Time since last request: 546.315318 seconds.
@@ -1489,16 +1889,26 @@ System memory in use after: 90.4 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2478.
 Total: 2.222100 ms (FindLiveObjects: 0.215300 ms CreateObjectMapping: 0.071300 ms MarkObjects: 1.843000 ms  DeleteObjects: 0.091300 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.007474 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+=======
+Registered in 0.007098 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+>>>>>>> Stashed changes
 =======
 Registered in 0.007098 seconds.
 Begin MonoManager ReloadAssembly
@@ -1511,7 +1921,11 @@ RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Completed reload, in  1.058 seconds
+=======
+- Completed reload, in  0.984 seconds
+>>>>>>> Stashed changes
 =======
 - Completed reload, in  0.984 seconds
 >>>>>>> Stashed changes
@@ -1533,6 +1947,7 @@ This message parameter has to be of type: Collider2D
 The message will be ignored.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
@@ -1542,6 +1957,8 @@ System memory in use after: 86.5 MB.
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2331.
 Total: 2.548400 ms (FindLiveObjects: 0.298100 ms CreateObjectMapping: 0.084500 ms MarkObjects: 2.037200 ms  DeleteObjects: 0.127300 ms)
 =======
+=======
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
@@ -1550,6 +1967,9 @@ System memory in use after: 90.4 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2482.
 Total: 2.309000 ms (FindLiveObjects: 0.206000 ms CreateObjectMapping: 0.076500 ms MarkObjects: 1.932500 ms  DeleteObjects: 0.093000 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
